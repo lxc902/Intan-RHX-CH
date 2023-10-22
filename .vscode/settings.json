@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "qdialog": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "c:\\Qt\\Qt5.12.12\\Tools\\mingw730_64\\bin\\g++.exe"
+}

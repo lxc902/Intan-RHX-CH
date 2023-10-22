@@ -44,7 +44,7 @@ public:
 
     inline int numColumns() const { return (int) displayColumns.size(); }
     int numVisibleColumns() const;
-    inline int maxNumColumns() const { return MaxNumColumns; }
+    inline int maxNumColumns() const { return cMaxNumColumns; }
     QString getSelectedPort(int column) const { return displayColumns[column]->getSelectedPort(); }
     void setSelectedPort(int column, const QString& portName) { displayColumns[column]->setSelectedPort(portName); }
 
@@ -110,8 +110,8 @@ private:
     WaveformDisplayManager* waveformManager;
     vector<int> numRefreshZones;
 
-    //static const int MaxNumColumns = 10;
-    static const int MaxNumColumns = 16;
+    //static const int MaxNumColumns = 10; // static const int cannot be referenced in c++0x.
+    const int cMaxNumColumns = 16;
     QList<WaveformDisplayColumn*> displayColumns;
 
     int tScaleFormerIndex;
