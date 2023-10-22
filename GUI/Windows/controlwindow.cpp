@@ -296,17 +296,17 @@ ControlWindow::ControlWindow(SystemState* state_, CommandParser* parser_, Contro
 
     QString title = tr("Intan Technologies ");
     if (state->getControllerTypeEnum() == ControllerRecordUSB2) {
-        title += tr("USB Interface Board");
+        title += tr("USB接口板");
     } else if (state->getControllerTypeEnum() == ControllerRecordUSB3) {
-        title += tr("Recording Controller");
+        title += tr("记录控制器");
     } else if (state->getControllerTypeEnum() == ControllerStimRecord) {
-        title += tr("Stimulation/Recording Controller");
+        title += tr("刺激/记录控制器");
     }
 
     if (state->synthetic->getValue()) {
-        title += tr(" - Demonstration Mode");
+        title += tr(" - 演示模式");
     } else if (state->playback->getValue()) {
-        title += tr(" - Playback Mode: ") + controllerInterface->playbackFileName();
+        title += tr(" - 回放模式: ") + controllerInterface->playbackFileName();
     }
     setWindowTitle(title);
 
@@ -684,7 +684,7 @@ void ControlWindow::createActions()
 void ControlWindow::createMenus()
 {
     // File menu
-    fileMenu = menuBar()->addMenu(tr("File"));
+    fileMenu = menuBar()->addMenu(tr("文件"));
     fileMenu->addAction(loadSettingsAction);
     fileMenu->addAction(saveSettingsAction);
     fileMenu->addSeparator();
@@ -693,7 +693,7 @@ void ControlWindow::createMenus()
     fileMenu->addAction(exitAction);
 
     // Display menu
-    displayMenu = menuBar()->addMenu(tr("Display"));
+    displayMenu = menuBar()->addMenu(tr("显示"));
     displayMenu->addAction(zoomInTScaleAction);
     displayMenu->addAction(zoomOutTScaleAction);
     displayMenu->addAction(toggleRollSweepAction);
@@ -716,7 +716,7 @@ void ControlWindow::createMenus()
     }
 
     // Channels menu
-    channelMenu = menuBar()->addMenu(tr("Channels"));
+    channelMenu = menuBar()->addMenu(tr("频道"));
     channelMenu->addAction(undoAction);
     channelMenu->addAction(redoAction);
     channelMenu->addSeparator();
@@ -749,7 +749,7 @@ void ControlWindow::createMenus()
 
     if (!state->testMode->getValue()) {
         // Tools menu
-        toolsMenu = menuBar()->addMenu(tr("Tools"));
+        toolsMenu = menuBar()->addMenu(tr("工具"));
         toolsMenu->addAction(spikeSortingAction);
         toolsMenu->addAction(isiAction);
         toolsMenu->addAction(psthAction);
@@ -757,18 +757,18 @@ void ControlWindow::createMenus()
         toolsMenu->addAction(probeMapAction);
 
         // Network menu
-        tcpMenu = menuBar()->addMenu(tr("Network"));
+        tcpMenu = menuBar()->addMenu(tr("网络"));
         tcpMenu->addAction(remoteControlAction);
     }
 
     // Performance menu
-    performanceMenu = menuBar()->addMenu(tr("Performance"));
+    performanceMenu = menuBar()->addMenu(tr("性能"));
     performanceMenu->addAction(performanceAction);
 
     menuBar()->addSeparator();
 
     // Help
-    helpMenu = menuBar()->addMenu(tr("Help"));
+    helpMenu = menuBar()->addMenu(tr("帮助"));
     helpMenu->addAction(keyboardHelpAction);
     helpMenu->addSeparator();
     if (!state->testMode->getValue()) {

@@ -45,12 +45,12 @@ DemoDialog::DemoDialog(DemoSelections *demoSelection_, bool &useOpenCL_, uint8_t
     message = new QLabel(tr("No Intan controllers have been detected. Ensure devices are powered on and connected to this machine.\n"
                             "You may also run this software in demonstration mode or play back a saved data file."));
 
-    usbInterfaceButton = new QPushButton(tr("RHD USB Interface Board Demo"), this);
-    recordControllerButton = new QPushButton(tr("RHD Recording Controller Demo"), this);
-    stimControllerButton = new QPushButton(tr("RHS Stim/Record Controller Demo"), this);
-    playbackButton = new QPushButton(tr("Data File Playback"));
+    usbInterfaceButton = new QPushButton(tr("RHD USB 接口板演示"), this);
+    recordControllerButton = new QPushButton(tr("RHD 记录控制器演示"), this);
+    stimControllerButton = new QPushButton(tr("RHS 刺激/记录控制器演示"), this);
+    playbackButton = new QPushButton(tr("数据文件回放"));
 
-    advancedButton = new QPushButton(tr("Advanced"), this);
+    advancedButton = new QPushButton(tr("高级"), this);
     advancedButton->setSizePolicy(QSizePolicy::Maximum, QSizePolicy::Maximum);
     int advancedButtonWidth = advancedButton->sizeHint().width() + 10;
     advancedButton->setFixedWidth(advancedButtonWidth);

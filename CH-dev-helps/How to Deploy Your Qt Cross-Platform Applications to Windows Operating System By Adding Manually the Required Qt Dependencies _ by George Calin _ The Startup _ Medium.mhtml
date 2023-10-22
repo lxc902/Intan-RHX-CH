@@ -1,0 +1,1261 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://webcache.googleusercontent.com/search?q=cache:_dCQ55In4TsJ:https://medium.com/swlh/how-to-deploy-your-qt-cross-platform-applications-to-windows-operating-system-by-adding-manually-623e2ed95408&sca_esv=575576926&hl=zh-CN&gl=hk&strip=1&vwsrc=0
+Subject: How to Deploy Your Qt Cross-Platform Applications to Windows Operating System By Adding Manually the Required Qt Dependencies | by George Calin | The Startup | Medium
+Date: Sun, 22 Oct 2023 10:04:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--naxdrl7NHrVViPzLruRkav6UR92FJcyDKtXRC08fYq----"
+
+
+------MultipartBoundary--naxdrl7NHrVViPzLruRkav6UR92FJcyDKtXRC08fYq----
+Content-Type: text/html
+Content-ID: <frame-6913343C3C00E4D3BFEA2D7D87B41AD0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://webcache.googleusercontent.com/search?q=cache:_dCQ55In4TsJ:https://medium.com/swlh/how-to-deploy-your-qt-cross-platform-applications-to-windows-operating-system-by-adding-manually-623e2ed95408&sca_esv=575576926&hl=zh-CN&gl=hk&strip=1&vwsrc=0
+
+<html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-22adc341-faf5-4e2e-9dc7-c3785c75e797@mhtml.blink" /><base href=3D"htt=
+ps://medium.com/swlh/how-to-deploy-your-qt-cross-platform-applications-to-w=
+indows-operating-system-by-adding-manually-623e2ed95408"></head><body><div =
+id=3D"bN015htcoyT__google-cache-hdr"><div><span>=E8=BF=99=E6=98=AF Google =
+=E5=AF=B9 <a href=3D"https://medium.com/swlh/how-to-deploy-your-qt-cross-pl=
+atform-applications-to-windows-operating-system-by-adding-manually-623e2ed9=
+5408">https://medium.com/swlh/how-to-deploy-your-qt-cross-platform-applicat=
+ions-to-windows-operating-system-by-adding-manually-623e2ed95408</a> =E7=9A=
+=84=E7=BC=93=E5=AD=98=E3=80=82</span>&nbsp;<span>=E8=BF=99=E6=98=AF=E8=AF=
+=A5=E7=BD=91=E9=A1=B5=E5=9C=A8 2023=E5=B9=B410=E6=9C=8822=E6=97=A5 07:46:36=
+ GMT =E7=9A=84=E5=BF=AB=E7=85=A7=E3=80=82</span>&nbsp;<span><a href=3D"http=
+s://medium.com/swlh/how-to-deploy-your-qt-cross-platform-applications-to-wi=
+ndows-operating-system-by-adding-manually-623e2ed95408">=E5=BD=93=E5=89=8D=
+=E9=A1=B5</a>=E5=9C=A8=E6=AD=A4=E6=9C=9F=E9=97=B4=E5=8F=AF=E8=83=BD=E5=B7=
+=B2=E7=BB=8F=E6=9B=B4=E6=94=B9=E3=80=82</span>&nbsp;<a href=3D"http://suppo=
+rt.google.com/websearch/bin/answer.py?hl=3Dzh-CN&amp;p=3Dcached&amp;answer=
+=3D1687222"><span>=E4=BA=86=E8=A7=A3=E8=AF=A6=E6=83=85</span>.</a></div><di=
+v><span style=3D"display:inline-block;margin-top:8px;margin-right:104px;whi=
+te-space:nowrap"><span style=3D"margin-right:28px"><a href=3D"http://webcac=
+he.googleusercontent.com/search?q=3Dcache:_dCQ55In4TsJ:https://medium.com/s=
+wlh/how-to-deploy-your-qt-cross-platform-applications-to-windows-operating-=
+system-by-adding-manually-623e2ed95408&amp;sca_esv=3D575576926&amp;hl=3Dzh-=
+CN&amp;gl=3Dhk&amp;strip=3D0&amp;vwsrc=3D0"><span>=E5=AE=8C=E6=95=B4=E7=89=
+=88=E6=9C=AC</span></a></span><span style=3D"margin-right:28px"><span style=
+=3D"font-weight:bold">=E7=BA=AF=E6=96=87=E5=AD=97=E7=89=88=E6=9C=AC</span><=
+/span><span style=3D"margin-right:28px"><a href=3D"http://webcache.googleus=
+ercontent.com/search?q=3Dcache:_dCQ55In4TsJ:https://medium.com/swlh/how-to-=
+deploy-your-qt-cross-platform-applications-to-windows-operating-system-by-a=
+dding-manually-623e2ed95408&amp;sca_esv=3D575576926&amp;hl=3Dzh-CN&amp;gl=
+=3Dhk&amp;strip=3D0&amp;vwsrc=3D1"><span>=E6=9F=A5=E7=9C=8B=E6=BA=90=E4=BB=
+=A3=E7=A0=81</span></a></span></span></div><span style=3D"display:inline-bl=
+ock;margin-top:8px;color:#70757a"><span>=E6=8F=90=E7=A4=BA=EF=BC=9A=E8=A6=
+=81=E5=9C=A8=E6=AD=A4=E9=A1=B5=E9=9D=A2=E4=B8=8A=E5=BF=AB=E9=80=9F=E6=89=BE=
+=E5=88=B0=E6=82=A8=E7=9A=84=E6=90=9C=E7=B4=A2=E5=AD=97=E8=AF=8D=EF=BC=8C=E8=
+=AF=B7=E6=8C=89 <b>Ctrl+F</b> =E6=88=96=E8=80=85 <b>=E2=8C=98-F</b>=EF=BC=
+=88Mac=EF=BC=89=EF=BC=8C=E7=84=B6=E5=90=8E=E4=BD=BF=E7=94=A8=E6=9F=A5=E6=89=
+=BE=E6=A0=8F=E6=90=9C=E7=B4=A2=E3=80=82</span></span></div><div style=3D"po=
+sition:relative; margin:8px;"><title data-rh=3D"true">How to Deploy Your Qt=
+ Cross-Platform Applications to Windows Operating System By Adding Manually=
+ the Required Qt Dependencies | by George Calin | The Startup | Medium</tit=
+le><meta data-rh=3D"true" name=3D"viewport" content=3D"width=3Ddevice-width=
+,minimum-scale=3D1,initial-scale=3D1,maximum-scale=3D1"><meta data-rh=3D"tr=
+ue" name=3D"theme-color" content=3D"#000000"><meta data-rh=3D"true" name=3D=
+"twitter:app:name:iphone" content=3D"Medium"><meta data-rh=3D"true" name=3D=
+"twitter:app:id:iphone" content=3D"828256236"><meta data-rh=3D"true" proper=
+ty=3D"al:ios:app_name" content=3D"Medium"><meta data-rh=3D"true" property=
+=3D"al:ios:app_store_id" content=3D"828256236"><meta data-rh=3D"true" prope=
+rty=3D"al:android:package" content=3D"com.medium.reader"><meta data-rh=3D"t=
+rue" property=3D"fb:app_id" content=3D"542599432471018"><meta data-rh=3D"tr=
+ue" property=3D"og:site_name" content=3D"Medium"><meta data-rh=3D"true" pro=
+perty=3D"og:type" content=3D"article"><meta data-rh=3D"true" property=3D"ar=
+ticle:published_time" content=3D"2023-04-15T11:02:28.770Z"><meta data-rh=3D=
+"true" name=3D"title" content=3D"How to Deploy Your Qt Cross-Platform Appli=
+cations to Windows Operating System By Adding Manually the Required Qt Depe=
+ndencies | by George Calin | The Startup | Medium"><meta data-rh=3D"true" p=
+roperty=3D"og:title" content=3D"How to Deploy Your Qt Cross-Platform Applic=
+ations to Windows Operating System By Adding Manually=E2=80=A6"><meta data-=
+rh=3D"true" property=3D"al:android:url" content=3D"medium://p/623e2ed95408"=
+><meta data-rh=3D"true" property=3D"al:ios:url" content=3D"medium://p/623e2=
+ed95408"><meta data-rh=3D"true" property=3D"al:android:app_name" content=3D=
+"Medium"><meta data-rh=3D"true" name=3D"description" content=3D"This tutori=
+al explains the manner to deploy cross-platform projects you made with the =
+Qt framework ( Qt Core, Qt Widgets, and Qt Quick alike) to Windows Operatin=
+g Systems by adding manually the=E2=80=A6"><meta data-rh=3D"true" property=
+=3D"og:description" content=3D"This tutorial guides you to deploy Qt cross-=
+platform projects to Windows OS by adding manually the needed library depen=
+dencies."><meta data-rh=3D"true" property=3D"og:url" content=3D"https://med=
+ium.com/swlh/how-to-deploy-your-qt-cross-platform-applications-to-windows-o=
+perating-system-by-adding-manually-623e2ed95408"><meta data-rh=3D"true" pro=
+perty=3D"al:web:url" content=3D"https://medium.com/swlh/how-to-deploy-your-=
+qt-cross-platform-applications-to-windows-operating-system-by-adding-manual=
+ly-623e2ed95408"><meta data-rh=3D"true" property=3D"og:image" content=3D"ht=
+tps://miro.medium.com/v2/resize:fit:1200/1*S4Kh4GCXA4zwU1RgI2lXrA.png"><met=
+a data-rh=3D"true" property=3D"article:author" content=3D"https://george-ca=
+lin.medium.com"><meta data-rh=3D"true" name=3D"author" content=3D"George Ca=
+lin"><meta data-rh=3D"true" name=3D"robots" content=3D"index,follow,max-ima=
+ge-preview:large"><meta data-rh=3D"true" name=3D"referrer" content=3D"unsaf=
+e-url"><meta data-rh=3D"true" property=3D"twitter:title" content=3D"How to =
+Deploy Your Qt Cross-Platform Applications to Windows Operating System By A=
+dding Manually=E2=80=A6"><meta data-rh=3D"true" name=3D"twitter:site" conte=
+nt=3D"@GrowthSupply"><meta data-rh=3D"true" name=3D"twitter:app:url:iphone"=
+ content=3D"medium://p/623e2ed95408"><meta data-rh=3D"true" property=3D"twi=
+tter:description" content=3D"This tutorial guides you to deploy Qt cross-pl=
+atform projects to Windows OS by adding manually the needed library depende=
+ncies."><meta data-rh=3D"true" name=3D"twitter:image:src" content=3D"https:=
+//miro.medium.com/v2/resize:fit:1200/1*S4Kh4GCXA4zwU1RgI2lXrA.png"><meta da=
+ta-rh=3D"true" name=3D"twitter:card" content=3D"summary_large_image"><meta =
+data-rh=3D"true" name=3D"twitter:label1" content=3D"Reading time"><meta dat=
+a-rh=3D"true" name=3D"twitter:data1" content=3D"5 min read"><meta data-rh=
+=3D"true" name=3D"twitter:tile:template:testing" content=3D"2"><meta data-r=
+h=3D"true" name=3D"twitter:tile:image" content=3D"https://miro.medium.com/v=
+2/resize:fit:1200/1*S4Kh4GCXA4zwU1RgI2lXrA.png"><meta data-rh=3D"true" name=
+=3D"twitter:tile:info1:icon" content=3D"Person"><meta data-rh=3D"true" name=
+=3D"twitter:tile:info1:text" content=3D"George Calin"><meta data-rh=3D"true=
+" name=3D"twitter:tile:info2:icon" content=3D"Calendar"><meta data-rh=3D"tr=
+ue" name=3D"twitter:tile:info2:text" content=3D"Apr 15, 2023"><meta data-rh=
+=3D"true" name=3D"twitter:cta" content=3D"Read on Medium"><div id=3D"root">=
+<div class=3D"a b c"><div class=3D"d e f g h i j k"></div><div class=3D"l c=
+"><div class=3D"l m n o c"><div class=3D"p q r s t u v w x i d y z"><a clas=
+s=3D"dt ag du be ak b am an ao ap aq ar as at s u w i d q dv z" href=3D"htt=
+ps://rsci.app.link/?%24canonical_url=3Dhttps%3A%2F%2Fmedium.com%2Fp%2F623e2=
+ed95408&amp;%7Efeature=3DLoOpenInAppButton&amp;%7Echannel=3DShowPostUnderCo=
+llection" rel=3D"noopener follow">Open in app</a><div class=3D"ab q"><p cla=
+ss=3D"be b dw dx dy dz ea eb ec ed ee ef dt">Sign up</p><div class=3D"aw l"=
+><p class=3D"be b dw dx dy dz ea eb ec ed ee ef dt"><a class=3D"af ag ah ai=
+ aj ak al am an ao ap aq ar as at" data-testid=3D"headerSignInButton" rel=
+=3D"noopener follow" href=3D"https://medium.com/m/signin?operation=3Dlogin&=
+amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cros=
+s-platform-applications-to-windows-operating-system-by-adding-manually-623e=
+2ed95408">Sign In</a></p></div></div></div><div class=3D"p q r ab ac"><div =
+class=3D"ab q ae"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at =
+ab" aria-label=3D"Homepage" data-testid=3D"headerMediumLogo" rel=3D"noopene=
+r follow" href=3D"https://medium.com/"></a><div class=3D"aw h"><div class=
+=3D"ab ax ay az ba q bb bc"><div class=3D"bl" aria-hidden=3D"false" aria-de=
+scribedby=3D"searchResults" aria-labelledby=3D"searchResults"></div><div cl=
+ass=3D"bm bn ab"></div></div></div></div><div class=3D"h k w fd fe"><div cl=
+ass=3D"ff ab"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" dat=
+a-testid=3D"headerWriteButton" rel=3D"noopener follow" href=3D"https://medi=
+um.com/m/signin?operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.co=
+m%2Fnew-story"><div class=3D"be b bf z dt fg fh ab q fi fj"><div class=3D"d=
+s l">Write</div></div></a></div></div><div class=3D"k j i d"><div class=3D"=
+ff ab"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" data-testi=
+d=3D"headerSearchButton" rel=3D"noopener follow" href=3D"https://medium.com=
+/search"><div class=3D"be b bf z dt fg fh ab q fi fj"></div></a></div></div=
+><div class=3D"ff h k j"><div class=3D"ab q"><p class=3D"be b dw dx dy dz e=
+a eb ec ed ee ef dt">Sign up</p><div class=3D"aw l"><p class=3D"be b dw dx =
+dy dz ea eb ec ed ee ef dt"><a class=3D"af ag ah ai aj ak al am an ao ap aq=
+ ar as at" data-testid=3D"headerSignInButton" rel=3D"noopener follow" href=
+=3D"https://medium.com/m/signin?operation=3Dlogin&amp;redirect=3Dhttps%3A%2=
+F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applications-t=
+o-windows-operating-system-by-adding-manually-623e2ed95408">Sign In</a></p>=
+</div></div></div><div class=3D"l" aria-hidden=3D"false"><div class=3D"l fg=
+"><div class=3D"fo bx l by bz fp n ax fq"></div></div></div></div></div><di=
+v class=3D"l"><div class=3D"fr fs ft fu fv l"><div class=3D"ab ca"><div cla=
+ss=3D"ch bg fw fx fy fz"></div></div><div class=3D"l"><div class=3D"l"><div=
+><div class=3D"fp gf gg gh gi gj"></div><div><div class=3D"speechify-ignore=
+ l"><div class=3D"gk gl gm gn go l"></div><div class=3D"ab ca"><div class=
+=3D"cp ds gp bg gq ch l"></div></div><div class=3D"ab ca"><div class=3D"ch =
+bg fw fx fy fz"><div class=3D"ck l"><div class=3D"gt ab"><div class=3D"bl" =
+aria-hidden=3D"false"><div class=3D"h k j i d"><div><div class=3D"bl" aria-=
+hidden=3D"false"></div></div></div><div class=3D"s u w fd fe q"><p class=3D=
+"be b bf z dt">Member-only story</p></div></div></div></div></div></div></d=
+iv></div><div class=3D"gu gv gw gx gy"><div class=3D"ab ca"><div class=3D"c=
+h bg fw fx fy fz"><div><h1 id=3D"fc45" class=3D"pw-post-title gz ha hb hc b=
+ hd he hf hg hh hi hj hk hl hm hn ho hp hq hr hs ht hu hv hw hx bj" data-te=
+stid=3D"storyTitle">How to Deploy Your Qt Cross-Platform Applications to Wi=
+ndows Operating System By Adding Manually the Required Qt Dependencies</h1>=
+<div class=3D"hy hz ia ib ic"><div class=3D"speechify-ignore ab co"><div cl=
+ass=3D"speechify-ignore bg l"><div class=3D"id ie if ig ih ab"><div><div cl=
+ass=3D"ab ii"><a rel=3D"noopener follow" href=3D"https://medium.com/@george=
+-calin"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"l ij ik =
+bx il im"><div class=3D"l fg">George Calin<div class=3D"in bx l dc dd fp n =
+io fq"></div></div></div></div></div></a><a href=3D"https://medium.com/swlh=
+" rel=3D"noopener follow"><div class=3D"ip ab fg"><div><div class=3D"bl" ar=
+ia-hidden=3D"false"><div class=3D"l iq ir bx il is"><div class=3D"l fg">The=
+ Startup<div class=3D"in bx l bq it fp n io fq"></div></div></div></div></d=
+iv></div></a></div></div><div class=3D"bm bg l"><div class=3D"ab"><div styl=
+e=3D"flex:1"><div class=3D"iu ab q"><div class=3D"ab q iv"><div class=3D"ab=
+ q"><div><div class=3D"bl" aria-hidden=3D"false"><p class=3D"be b iw ix bj"=
+><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy" data-testid=3D"auth=
+orName" rel=3D"noopener follow" href=3D"https://medium.com/@george-calin">G=
+eorge Calin</a></p></div></div></div>=C2=B7<p class=3D"be b iw ix dt"><a cl=
+ass=3D"jb jc ah ai aj ak al am an ao ap aq ar eu jd je" rel=3D"noopener fol=
+low" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.c=
+om%2F_%2Fsubscribe%2Fuser%2Fe1dadcc49a33&amp;operation=3Dregister&amp;redir=
+ect=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platfor=
+m-applications-to-windows-operating-system-by-adding-manually-623e2ed95408&=
+amp;user=3DGeorge+Calin&amp;userId=3De1dadcc49a33">Follow</a></p></div></di=
+v></div></div><div class=3D"l jf"><div class=3D"ab cm jg jh ji"><div class=
+=3D"jj jk ab"><div class=3D"be b bf z dt ab jl">Published in<div><div class=
+=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar iy ab q" data-testid=3D"publicationName" href=3D"https://medium.com/s=
+wlh" rel=3D"noopener follow"><p class=3D"be b bf z jm jn jo jp jq jr js jt =
+bj">The Startup</p></a></div></div></div><div class=3D"h k">=C2=B7</div></d=
+iv><div class=3D"ab ae">5 min read<div class=3D"ju jv l" aria-hidden=3D"tru=
+e">=C2=B7</div>Dec 16, 2020</div></div></div></div></div><div class=3D"ab c=
+o jw jx jy jz ka kb kc kd ke kf kg kh ki kj kk kl"><div class=3D"h k w fd f=
+e q"><div class=3D"lb l"><div class=3D"ab q lc"><div class=3D"pw-multi-vote=
+-icon fg gr ld le lf"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as=
+ at" data-testid=3D"headerClapButton" rel=3D"noopener follow" href=3D"https=
+://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fsw=
+lh%2F623e2ed95408&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmed=
+ium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applications-to-windo=
+ws-operating-system-by-adding-manually-623e2ed95408&amp;user=3DGeorge+Calin=
+&amp;userId=3De1dadcc49a33"><div><div class=3D"bl" aria-hidden=3D"false"><d=
+iv class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></div></a></div><=
+div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p class=3D"be b d=
+u z dt">--</p></div></div></div><div><div class=3D"bl" aria-hidden=3D"false=
+"></div></div></div><div class=3D"ab q km kn ko kp kq kr ks kt ku kv kw kx =
+ky kz la"><div class=3D"ma k j i d"></div><div class=3D"h k"><div><div clas=
+s=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap=
+ aq ar as at" data-testid=3D"headerBookmarkButton" rel=3D"noopener follow" =
+href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F=
+_%2Fbookmark%2Fp%2F623e2ed95408&amp;operation=3Dregister&amp;redirect=3Dhtt=
+ps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applica=
+tions-to-windows-operating-system-by-adding-manually-623e2ed95408"></a></di=
+v></div></div><div class=3D"fa vo cm"><div class=3D"l ae"><div class=3D"ab =
+ca"><div class=3D"vp vq vr vs vt oe ch bg"><div class=3D"ab"><div class=3D"=
+bl bg" aria-hidden=3D"false"><div><div class=3D"bl" aria-hidden=3D"false"><=
+div class=3D"j i d"><p class=3D"be b bf z dt">Listen</p></div></div></div><=
+/div></div></div></div></div></div><div class=3D"bl" aria-hidden=3D"false" =
+aria-describedby=3D"postFooterSocialMenu" aria-labelledby=3D"postFooterSoci=
+alMenu"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"j i d"><=
+p class=3D"be b bf z dt">Share</p></div></div></div></div></div></div></div=
+></div></div></div><p id=3D"d564" class=3D"pw-post-body-paragraph mx my hb =
+mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu gu bj">=
+This tutorial explains the manner to deploy cross-platform projects you mad=
+e with the Qt framework ( Qt Core, Qt Widgets, and Qt Quick alike) to Windo=
+ws Operating Systems by adding manually the required Qt library dependencie=
+s.</p><div class=3D"nv nw nx"></div><h1 id=3D"29d7" class=3D"og oh hb be oi=
+ oj ok ol om on oo op oq or os ot ou ov ow ox oy oz pa pb pc pd bj">Set up =
+the necessary environment</h1><ul class=3D""><li id=3D"d0ae" class=3D"mx my=
+ hb mz b na pe nc nd ne pf ng nh ni pg nk nl nm ph no np nq pi ns nt nu pj =
+pk pl bj">operating system information (Windows OS)</li></ul><div role=3D"b=
+utton" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw pm"><=
+/div></div><ul class=3D""><li id=3D"dcf0" class=3D"mx my hb mz b na nb nc n=
+d ne nf ng nh ni pr nk nl nm ps no np nq pt ns nt nu pj pk pl bj">a set-up =
+of Qt Creator IDE ( <a class=3D"af pu" href=3D"https://www.qt.io/product/de=
+velopment-tools" rel=3D"noopener ugc nofollow" target=3D"_blank">https://ww=
+w.qt.io/product/development-tools</a> )</li></ul><div role=3D"button" tabin=
+dex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw pv"></div></div><=
+ul class=3D""><li id=3D"50e2" class=3D"mx my hb mz b na nb nc nd ne nf ng n=
+h ni pr nk nl nm ps no np nq pt ns nt nu pj pk pl bj">a Qt code from a simp=
+le application</li></ul><div role=3D"button" tabindex=3D"0" class=3D"pn po =
+fg pp bg pq"><div class=3D"nv nw pw"></div></div><p id=3D"2bf8" class=3D"pw=
+-post-body-paragraph mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm n=
+n no np nq nr ns nt nu gu bj">If you wish to get conversant with the Qt cro=
+ss-platform framework, I recommend following along the courses on Udemy fro=
+m the following authors:</p><div class=3D"px py pz qa qb qc"><a href=3D"htt=
+ps://www.udemy.com/user/daniel-gakwaya/" rel=3D"noopener  ugc nofollow" tar=
+get=3D"_blank"><div class=3D"qd ab jf"><div class=3D"qe ab cn ca qf qg"><h2=
+ class=3D"hc b iw z jm qh jo jp qi jr jt ha bj">Daniel Gakwaya | Software E=
+ngineer at Blikoon Technologies| Udemy</h2><div class=3D"qj l"><h3 class=3D=
+"be b iw z jm qh jo jp qi jr jt dt">Daniel is a Senior Software Engineer at=
+ Blikoon Technologies. He has been writing software since 2011 and Qt is on=
+e of=E2=80=A6</h3></div><div class=3D"qk l"><p class=3D"be b du z jm qh jo =
+jp qi jr jt dt">www.udemy.com</p></div></div><div class=3D"ql l"><div class=
+=3D"qm l qn qo qp ql qq oe qc"></div></div></div></a></div><div class=3D"px=
+ py pz qa qb qc"><a href=3D"https://www.udemy.com/user/bryan-cairns/" rel=
+=3D"noopener  ugc nofollow" target=3D"_blank"><div class=3D"qd ab jf"><div =
+class=3D"qe ab cn ca qf qg"><h2 class=3D"hc b iw z jm qh jo jp qi jr jt ha =
+bj">Bryan Cairns | Computer Guru| Udemy</h2><div class=3D"qj l"><h3 class=
+=3D"be b iw z jm qh jo jp qi jr jt dt">I am a highly trained computer profe=
+ssional with the following skills: Languages - C, C++, Dart, Flutter, QML, =
+Java=E2=80=A6</h3></div><div class=3D"qk l"><p class=3D"be b du z jm qh jo =
+jp qi jr jt dt">www.udemy.com</p></div></div><div class=3D"ql l"><div class=
+=3D"qr l qn qo qp ql qq oe qc"></div></div></div></a></div><h1 id=3D"f31e" =
+class=3D"og oh hb be oi oj ok ol om on oo op oq or os ot ou ov ow ox oy oz =
+pa pb pc pd bj">Go deploy Qt cross-platform application by adding manually =
+the required dependencies</h1><h2 id=3D"c02f" class=3D"qs oh hb be oi qt qu=
+ dx om qv qw dz oq ni qx qy qz nm ra rb rc nq rd re rf rg bj">Step 1. Build=
+ Qt Code for Release</h2><div role=3D"button" tabindex=3D"0" class=3D"pn po=
+ fg pp bg pq"><div class=3D"nv nw rh"></div></div></div></div></div><div cl=
+ass=3D"ab ca ri rj rk rl" role=3D"separator"></div><div class=3D"gu gv gw g=
+x gy"><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><p id=3D"ee85" =
+class=3D"mx my rt mz b na nb nc nd ne nf ng nh ru nj nk nl rv nn no np rw n=
+r ns nt nu gu bj">Using the =E2=80=9CRelease=E2=80=9D option for Building c=
+reates a much smaller binary in size than by using the =E2=80=9CDebug=E2=80=
+=9D option, as it excludes the debugging information.</p><h2 id=3D"fc67" cl=
+ass=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni qx qy qz nm ra rb rc nq rd=
+ re rf rg bj">Step 2. Create a new folder and copy the binary file inside o=
+f it</h2><p id=3D"d4dd" class=3D"pw-post-body-paragraph mx my hb mz b na pe=
+ nc nd ne pf ng nh ni ry nk nl nm rz no np nq sa ns nt nu gu bj">This is th=
+e new folder:</p><div role=3D"button" tabindex=3D"0" class=3D"pn po fg pp b=
+g pq"><div class=3D"nv nw sb"></div></div><p id=3D"e527" class=3D"pw-post-b=
+ody-paragraph mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no np=
+ nq nr ns nt nu gu bj">Copy all the necessary files in the newly created fo=
+lder:</p><div role=3D"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><d=
+iv class=3D"nv nw sc"></div></div><h2 id=3D"59fc" class=3D"qs oh hb be oi q=
+t qu dx om qv qw dz oq ni qx qy qz nm ra rb rc nq rd re rf rg bj">Step 3. T=
+ry to run the executable file</h2><p id=3D"d91d" class=3D"pw-post-body-para=
+graph mx my hb mz b na pe nc nd ne pf ng nh ni ry nk nl nm rz no np nq sa n=
+s nt nu gu bj">When trying the run the executable, error messages appear co=
+ncerning the missing libraries (these depends upon your application):</p><d=
+iv role=3D"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D=
+"nv nw sd"></div></div>Test-run the executable file to spot to missing Qt l=
+ibraries<h2 id=3D"8a10" class=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni =
+qx qy qz nm ra rb rc nq rd re rf rg bj">Step 4. Spot the errors returned to=
+ get the information of the required, but missing Qt libraries to run your =
+application independently of Qt Creator IDE</h2><p id=3D"8c83" class=3D"pw-=
+post-body-paragraph mx my hb mz b na pe nc nd ne pf ng nh ni ry nk nl nm rz=
+ no np nq sa ns nt nu gu bj sh">Note: In this scenario, we are considering =
+that the deployment of the application uses dynamic library linking, in oth=
+er words, the requested Qt framework libraries are to be accessed from exte=
+rnal .dll files of the executable. This is the model of deployment that can=
+ be used with Qt open source.</p></div></div></div><div class=3D"ab ca ri r=
+j rk rl" role=3D"separator"></div><div class=3D"gu gv gw gx gy"><div class=
+=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><p id=3D"f2f6" class=3D"pw-post=
+-body-paragraph mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no =
+np nq nr ns nt nu gu bj">There exists also the concept of static linking , =
+which means that all the required libraries from the Qt framework are embed=
+ded at the moment of building the code in the binary executable. This is th=
+e mode of deployment available with the commercial version of Qt.</p><p id=
+=3D"b36a" class=3D"pw-post-body-paragraph mx my hb mz b na nb nc nd ne nf n=
+g nh ni nj nk nl nm nn no np nq nr ns nt nu gu bj">Depending on the particu=
+lars of your application and its demands in terms of Qt framework, a number=
+ of errors will arise:</p><p id=3D"b173" class=3D"pw-post-body-paragraph mx=
+ my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu =
+gu bj">Following is an example, for the case of my code</p><ul class=3D""><=
+li id=3D"ed03" class=3D"mx my hb mz b na nb nc nd ne nf ng nh ni pr nk nl n=
+m ps no np nq pt ns nt nu pj pk pl bj">Missing QtCore5.dll</li></ul><div cl=
+ass=3D"nv nw sq"></div><ul class=3D""><li id=3D"6461" class=3D"mx my hb mz =
+b na nb nc nd ne nf ng nh ni pr nk nl nm ps no np nq pt ns nt nu pj pk pl b=
+j">Missing Qt5Gui.dll</li></ul><div class=3D"nv nw sr"></div><ul class=3D""=
+><li id=3D"0645" class=3D"mx my hb mz b na nb nc nd ne nf ng nh ni pr nk nl=
+ nm ps no np nq pt ns nt nu pj pk pl bj">Missing Qt5Widgets.dll</li></ul><d=
+iv class=3D"nv nw ss"></div><p id=3D"5e69" class=3D"pw-post-body-paragraph =
+mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt n=
+u gu bj">Again, I wish to repeat, you are going to receive the same or/and =
+some other errors, depending on the actual Qt lines of code.</p><p id=3D"a9=
+16" class=3D"pw-post-body-paragraph mx my hb mz b na nb nc nd ne nf ng nh n=
+i nj nk nl nm nn no np nq nr ns nt nu gu bj">=E2=80=A6</p><h2 id=3D"cc82" c=
+lass=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni qx qy qz nm ra rb rc nq r=
+d re rf rg bj">Step 5. Copy the missing library .dll files in the new folde=
+r</h2><p id=3D"5fc0" class=3D"mx my rt mz b na nb nc nd ne nf ng nh ru nj n=
+k nl rv nn no np rw nr ns nt nu gu bj">You have to hunt for the missing lib=
+raries from the error messages and search for them, copy in the new folder.=
+</p><div role=3D"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div cl=
+ass=3D"nv nw st"></div></div><div role=3D"button" tabindex=3D"0" class=3D"p=
+n po fg pp bg pq"><div class=3D"nv nw st"></div></div><p id=3D"9523" class=
+=3D"pw-post-body-paragraph mx my hb mz b na nb nc nd ne nf ng nh ni nj nk n=
+l nm nn no np nq nr ns nt nu gu bj">Copy the missing .dll-s</p><div role=3D=
+"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw st"=
+></div></div></div></div></div><div class=3D"ab ca ri rj rk rl" role=3D"sep=
+arator"></div><div class=3D"gu gv gw gx gy"><div class=3D"ab ca"><div class=
+=3D"ch bg fw fx fy fz"><div role=3D"button" tabindex=3D"0" class=3D"pn po f=
+g pp bg pq"><div class=3D"nv nw st"></div></div></div></div></div><div clas=
+s=3D"ab ca ri rj rk rl" role=3D"separator"></div><div class=3D"gu gv gw gx =
+gy"><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><div role=3D"butt=
+on" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw st"></di=
+v></div><h2 id=3D"d534" class=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni =
+qx qy qz nm ra rb rc nq rd re rf rg bj">Content of files inside the deploym=
+ent directory after copying the .dll files</h2><div role=3D"button" tabinde=
+x=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw su"></div></div><h2=
+ id=3D"89d9" class=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni qx qy qz nm=
+ ra rb rc nq rd re rf rg bj">Step 6. Create a directory called =E2=80=9Cpla=
+tforms=E2=80=9D inside the deployment directory</h2><div role=3D"button" ta=
+bindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw sv"></div></di=
+v><h2 id=3D"93b4" class=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni qx qy =
+qz nm ra rb rc nq rd re rf rg bj">Step 7. Copy the =E2=80=9Cqwindows.dll=E2=
+=80=9D from =E2=80=98Qt\version\yourCompiler\plugins\platforms=E2=80=99 in =
+the new =E2=80=9Cplatforms=E2=80=9D subdirectory</h2><div role=3D"button" t=
+abindex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw st"></div></d=
+iv><div role=3D"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><div cla=
+ss=3D"nv nw st"></div></div><p id=3D"5592" class=3D"pw-post-body-paragraph =
+mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt n=
+u gu bj">Destination folder:</p><div role=3D"button" tabindex=3D"0" class=
+=3D"pn po fg pp bg pq"><div class=3D"nv nw st"></div></div><h1 id=3D"1cb5" =
+class=3D"og oh hb be oi oj ok ol om on oo op oq or os ot ou ov ow ox oy oz =
+pa pb pc pd bj">Test and run the binary file</h1><div role=3D"button" tabin=
+dex=3D"0" class=3D"pn po fg pp bg pq"><div class=3D"nv nw sw"></div></div><=
+h2 id=3D"e865" class=3D"qs oh hb be oi qt qu dx om qv qw dz oq ni qx qy qz =
+nm ra rb rc nq rd re rf rg bj">Qt Widgets built application works on Window=
+s OS</h2><div role=3D"button" tabindex=3D"0" class=3D"pn po fg pp bg pq"><d=
+iv class=3D"nv nw sx"></div></div><h1 id=3D"51b2" class=3D"og oh hb be oi o=
+j ok ol om on oo op oq or os ot ou ov ow ox oy oz pa pb pc pd bj">Alternati=
+ve solutions</h1><p id=3D"ec69" class=3D"pw-post-body-paragraph mx my hb mz=
+ b na pe nc nd ne pf ng nh ni ry nk nl nm rz no np nq sa ns nt nu gu bj">Us=
+e the following alternative methods to deploy Qt cross-platform application=
+s to Windows Operating System:</p><div class=3D"px py pz qa qb qc"><a href=
+=3D"https://george-calin.medium.com/how-to-deploy-your-qt-cross-platform-ap=
+plications-to-windows-operating-system-by-using-windeployqt-a7cd5663d46e" r=
+el=3D"noopener follow" target=3D"_blank"><div class=3D"qd ab jf"><div class=
+=3D"qe ab cn ca qf qg"><h2 class=3D"hc b iw z jm qh jo jp qi jr jt ha bj">H=
+ow to Deploy Your Qt Cross-Platform Applications to Windows Operating Syste=
+m by using windeployqt</h2><div class=3D"qj l"><h3 class=3D"be b iw z jm qh=
+ jo jp qi jr jt dt">This tutorial explains the manner to deploy cross-platf=
+orm projects you made with the Qt framework with windeployqt.</h3></div><di=
+v class=3D"qk l"><p class=3D"be b du z jm qh jo jp qi jr jt dt">george-cali=
+n.medium.com</p></div></div><div class=3D"ql l"><div class=3D"sy l qn qo qp=
+ ql qq oe qc"></div></div></div></a></div><div class=3D"px py pz qa qb qc">=
+<a href=3D"https://george-calin.medium.com/how-to-deploy-your-qt-cross-plat=
+form-applications-to-windows-operating-system-with-the-qt-1081cf0d736d" rel=
+=3D"noopener follow" target=3D"_blank"><div class=3D"qd ab jf"><div class=
+=3D"qe ab cn ca qf qg"><h2 class=3D"hc b iw z jm qh jo jp qi jr jt ha bj">H=
+ow to Deploy Your Qt Cross-Platform Applications to Windows Operating Syste=
+m With the Qt=E2=80=A6</h2><div class=3D"qj l"><h3 class=3D"be b iw z jm qh=
+ jo jp qi jr jt dt">This tutorial explains how to deploy cross-platform pro=
+jects made with Qt on Windows using the Qt Installer Framework.</h3></div><=
+div class=3D"qk l"><p class=3D"be b du z jm qh jo jp qi jr jt dt">george-ca=
+lin.medium.com</p></div></div><div class=3D"ql l"><div class=3D"sz l qn qo =
+qp ql qq oe qc"></div></div></div></a></div><p id=3D"f76c" class=3D"pw-post=
+-body-paragraph mx my hb mz b na nb nc nd ne nf ng nh ni nj nk nl nm nn no =
+np nq nr ns nt nu gu bj">In case you wish to deploy your application to Lin=
+ux Operating System, feel free to use either solution of the following:</p>=
+<div class=3D"px py pz qa qb qc"><a rel=3D"noopener follow" target=3D"_blan=
+k" href=3D"https://medium.com/swlh/how-to-deploy-your-qt-applications-to-li=
+nux-operating-system-with-linuxdeployqt-3c004a43c67a"><div class=3D"qd ab j=
+f"><div class=3D"qe ab cn ca qf qg"><h2 class=3D"hc b iw z jm qh jo jp qi j=
+r jt ha bj">How to Deploy Your Qt Cross-Platform Applications to Linux Oper=
+ating System With linuxdeployqt</h2><div class=3D"qj l"><h3 class=3D"be b i=
+w z jm qh jo jp qi jr jt dt">This tutorial explains how we can deploy the p=
+rojects you worked on with the Qt framework ( Qt Core, Qt Widgets, and Qt=
+=E2=80=A6</h3></div><div class=3D"qk l"><p class=3D"be b du z jm qh jo jp q=
+i jr jt dt">medium.com</p></div></div><div class=3D"ql l"><div class=3D"ta =
+l qn qo qp ql qq oe qc"></div></div></div></a></div><div class=3D"px py pz =
+qa qb qc"><a href=3D"https://george-calin.medium.com/how-to-deploy-your-qt-=
+cross-platform-applications-to-linux-operating-system-with-qt-installer-ac2=
+8258bc370" rel=3D"noopener follow" target=3D"_blank"><div class=3D"qd ab jf=
+"><div class=3D"qe ab cn ca qf qg"><h2 class=3D"hc b iw z jm qh jo jp qi jr=
+ jt ha bj">How to Deploy Your Qt Cross-Platform Applications to Linux Opera=
+ting System With Qt Installer=E2=80=A6</h2><div class=3D"qj l"><h3 class=3D=
+"be b iw z jm qh jo jp qi jr jt dt">This tutorial guides you to deploy cros=
+s-platform projects you made with the Qt framework to Linux OS using Qt=E2=
+=80=A6</h3></div><div class=3D"qk l"><p class=3D"be b du z jm qh jo jp qi j=
+r jt dt">george-calin.medium.com</p></div></div><div class=3D"ql l"><div cl=
+ass=3D"tb l qn qo qp ql qq oe qc"></div></div></div></a></div></div></div><=
+/div><div class=3D"ab ca ri rj rk rl" role=3D"separator"></div><div class=
+=3D"gu gv gw gx gy"><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><=
+p id=3D"c9e6" class=3D"pw-post-body-paragraph mx my hb mz b na nb nc nd ne =
+nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu gu bj">If you consider my a=
+rticles to be helping you, you could support me in writing the next article=
+s by using <a class=3D"af pu" href=3D"https://www.buymeacoffee.com/DdCUaM4q=
+E" rel=3D"noopener ugc nofollow" target=3D"_blank">this page</a>.</p><p id=
+=3D"7724" class=3D"pw-post-body-paragraph mx my hb mz b na nb nc nd ne nf n=
+g nh ni nj nk nl nm nn no np nq nr ns nt nu gu bj">Thank you.</p></div></di=
+v></div></div></div></div><div class=3D"ab ca"><div class=3D"ch bg fw fx fy=
+ fz"></div></div></div><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz=
+"><div class=3D"tc td ab ji"><div class=3D"qj ab"><a class=3D"gp ax am ao" =
+rel=3D"noopener follow" href=3D"https://medium.com/tag/qt"><div class=3D"te=
+ fg cw tf gb tg th be b bf z bj ti">Qt</div></a></div><div class=3D"qj ab">=
+<a class=3D"gp ax am ao" rel=3D"noopener follow" href=3D"https://medium.com=
+/tag/cross-platform"><div class=3D"te fg cw tf gb tg th be b bf z bj ti">Cr=
+oss Platform</div></a></div><div class=3D"qj ab"><a class=3D"gp ax am ao" r=
+el=3D"noopener follow" href=3D"https://medium.com/tag/development"><div cla=
+ss=3D"te fg cw tf gb tg th be b bf z bj ti">Development</div></a></div><div=
+ class=3D"qj ab"><a class=3D"gp ax am ao" rel=3D"noopener follow" href=3D"h=
+ttps://medium.com/tag/windows-10"><div class=3D"te fg cw tf gb tg th be b b=
+f z bj ti">Windows 10</div></a></div><div class=3D"qj ab"><a class=3D"gp ax=
+ am ao" rel=3D"noopener follow" href=3D"https://medium.com/tag/deployment">=
+<div class=3D"te fg cw tf gb tg th be b bf z bj ti">Deployment</div></a></d=
+iv></div></div></div><div class=3D"l"></div><div class=3D"l ae"><div class=
+=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><div class=3D"ab co ts"><div cl=
+ass=3D"ab q lc"><div class=3D"tt l"><div class=3D"ab q lc"><div class=3D"pw=
+-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj ak al am an ao =
+ap aq ar as at" data-testid=3D"footerClapButton" rel=3D"noopener follow" hr=
+ef=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%=
+2Fvote%2Fswlh%2F623e2ed95408&amp;operation=3Dregister&amp;redirect=3Dhttps%=
+3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applicatio=
+ns-to-windows-operating-system-by-adding-manually-623e2ed95408&amp;user=3DG=
+eorge+Calin&amp;userId=3De1dadcc49a33"><div><div class=3D"bl" aria-hidden=
+=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></di=
+v></a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p cl=
+ass=3D"be b du z dt">--</p></div></div><div class=3D"ab q lc"><div class=3D=
+"pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj ak al am an =
+ao ap aq ar as at" data-testid=3D"footerClapButton" rel=3D"noopener follow"=
+ href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2=
+F_%2Fvote%2Fswlh%2F623e2ed95408&amp;operation=3Dregister&amp;redirect=3Dhtt=
+ps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applica=
+tions-to-windows-operating-system-by-adding-manually-623e2ed95408&amp;user=
+=3DGeorge+Calin&amp;userId=3De1dadcc49a33"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></=
+div></a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p =
+class=3D"be b du z dt">--</p></div></div></div><div class=3D"bp ab"><div><d=
+iv class=3D"bl" aria-hidden=3D"false"></div></div></div></div><div class=3D=
+"ab q"><div class=3D"rp l jf"><div><div class=3D"bl" aria-hidden=3D"false">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" data-testid=3D"fo=
+oterBookmarkButton" rel=3D"noopener follow" href=3D"https://medium.com/m/si=
+gnin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F623e2ed95408=
+&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2F=
+how-to-deploy-your-qt-cross-platform-applications-to-windows-operating-syst=
+em-by-adding-manually-623e2ed95408"></a></div></div></div><div class=3D"rp =
+l jf"><div class=3D"bl" aria-hidden=3D"false" aria-describedby=3D"postFoote=
+rSocialMenu" aria-labelledby=3D"postFooterSocialMenu"><div><div class=3D"bl=
+" aria-hidden=3D"false"></div></div></div></div></div></div></div></div></d=
+iv><div class=3D"tz ua ub uc ud l bw"><div class=3D"ab ca"><div class=3D"ch=
+ bg fw fx fy fz"><div class=3D"ck ab ue co"><div class=3D"ab ii"><a rel=3D"=
+noopener follow" href=3D"https://medium.com/@george-calin"><div class=3D"l =
+uf ug bx uh im"><div class=3D"l fg">George Calin<div class=3D"in bx l ui uj=
+ fp n io fq"></div></div></div></a><a href=3D"https://medium.com/swlh" rel=
+=3D"noopener follow"><div class=3D"uk ab fg"><div><div class=3D"bl" aria-hi=
+dden=3D"false"><div class=3D"l ul um bx uh is"><div class=3D"l fg">The Star=
+tup<div class=3D"in bx l by bz fp n io fq"></div></div></div></div></div></=
+div></a></div><div class=3D"j i d"><div class=3D"ab">Follow<div class=3D"ds=
+ l"><div><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"l"><a c=
+lass=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follo=
+w" href=3D"https://medium.com/m/signin?actionUrl=3D%2F_%2Fapi%2Fsubscriptio=
+ns%2Fnewsletters%2Fca551b54750b&amp;operation=3Dregister&amp;redirect=3Dhtt=
+ps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-applica=
+tions-to-windows-operating-system-by-adding-manually-623e2ed95408&amp;newsl=
+etterV3=3De1dadcc49a33&amp;newsletterV3Id=3Dca551b54750b&amp;user=3DGeorge+=
+Calin&amp;userId=3De1dadcc49a33"></a></div></div></div></div></div></div></=
+div></div><div class=3D"ab cm co"><div class=3D"l"><div class=3D"ab q"><a c=
+lass=3D"af ag ah ai aj ak al am an ao ap aq ar as at ab q" rel=3D"noopener =
+follow" href=3D"https://medium.com/@george-calin"><h2 class=3D"pw-author-na=
+me be uy uz va vb bj">Written by <!-- -->George Calin</h2></a></div><div cl=
+ass=3D"qj ab"><div class=3D"l jf"><a class=3D"af ag ah ai aj ak al am an ao=
+ ap aq ar iy" rel=3D"noopener follow" href=3D"https://medium.com/@george-ca=
+lin/followers">188 Followers</a></div><div class=3D"be b bf z jm jn jo ab j=
+q jr js jt dt jl">=C2=B7Writer for <div><div class=3D"bl" aria-hidden=3D"fa=
+lse"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" href=3D"ht=
+tps://medium.com/swlh" rel=3D"noopener follow"><p class=3D"be b bf z jm jn =
+jo jp jq jr js jt bj">The Startup</p></a></div></div></div></div><div class=
+=3D"vc l"><p class=3D"be b bf z bj">Leading cross-functional teams to devel=
+op software solutions. Connect me on LinkedIn at <a class=3D"af ag ah ai aj=
+ ak al am an ao ap aq ar pu gv" href=3D"https://www.linkedin.com/in/cgeorge=
+1978/" rel=3D"noopener  ugc nofollow">https://www.linkedin.com/in/cgeorge19=
+78/</a></p></div></div><div class=3D"h k"><div class=3D"ab">Follow<div clas=
+s=3D"ds l"><div><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"=
+l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopene=
+r follow" href=3D"https://medium.com/m/signin?actionUrl=3D%2F_%2Fapi%2Fsubs=
+criptions%2Fnewsletters%2Fca551b54750b&amp;operation=3Dregister&amp;redirec=
+t=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-deploy-your-qt-cross-platform-=
+applications-to-windows-operating-system-by-adding-manually-623e2ed95408&am=
+p;newsletterV3=3De1dadcc49a33&amp;newsletterV3Id=3Dca551b54750b&amp;user=3D=
+George+Calin&amp;userId=3De1dadcc49a33"></a></div></div></div></div></div><=
+/div></div></div><div class=3D"vd bg ve vf vg vh vi vj"></div></div></div><=
+div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><div class=3D"vu vv l"=
+><h2 class=3D"be uy iw z ha bj">More from <!-- -->George Calin<!-- --> and =
+The Startup</h2></div><div class=3D"vw ab lc ji vx vy vz wa wb wc wd we wf =
+wg wh wi wj wk wl"><div class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz =
+xa xb xc xd xe xf xg"><div class=3D"xh xi xj xk xl dv l"><div class=3D"dv g=
+t l"><div class=3D"bg dv"><div class=3D"dv l"><div class=3D"dv xm xn xo xp =
+xq xr xs xt xu xv xw xx xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak=
+ al am an ao ap aq ar as at" aria-label=3D"How to prepare a =E2=80=98hellow=
+orld.c=E2=80=99 recipe with Yocto Project" rel=3D"noopener follow" href=3D"=
+https://medium.com/@george-calin/how-to-prepare-a-helloworld-c-recipe-with-=
+yocto-project-1f74c296a777"><div class=3D"yb yc yd ye yf">How to prepare a =
+=E2=80=98helloworld.c=E2=80=99 recipe with Yocto Project</div></a></div><di=
+v class=3D"ya ab ca cn"><div class=3D"yk yl ym yn yo ab"><div class=3D"gp l=
+"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj a=
+k al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://mediu=
+m.com/@george-calin"><div class=3D"l fg">George Calin<div class=3D"fo bx l =
+yp yq fp n ax fq"></div></div></a></div></div></div><div class=3D"yr l"><di=
+v><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al =
+am an ao ap aq ar iy ab q" rel=3D"noopener follow" href=3D"https://medium.c=
+om/@george-calin"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">George =
+Calin</p></a></div></div></div></div><div class=3D"ys yt yu yv yw yx yy yz =
+za zb l gu"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=
+=3D"noopener follow" href=3D"https://medium.com/@george-calin/how-to-prepar=
+e-a-helloworld-c-recipe-with-yocto-project-1f74c296a777"><div title=3D""><h=
+2 class=3D"hc b oj ol zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj rc=
+ nq re zk zl rf jm jo jp jr jt bj">How to prepare a =E2=80=98helloworld.c=
+=E2=80=99 recipe with Yocto Project</h2></div><div class=3D"zm l"><h3 class=
+=3D"be b iw z jm qh jo jp qi jr jt dt">There a step by step example. It can=
+ be extended with any C (or C++) program with the functionality of your cho=
+ice. The result is a Linux=E2=80=A6</h3></div></a></div><a class=3D"af ag a=
+h ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"http=
+s://medium.com/@george-calin/how-to-prepare-a-helloworld-c-recipe-with-yoct=
+o-project-1f74c296a777"><div class=3D"ab q"><div class=3D"gt ab"><div class=
+=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=3D"bl" aria-h=
+idden=3D"false"></div></div></div></div></div>=C2=B77 min read=C2=B7Aug 9, =
+2020</div></a><div class=3D"zn zo zp zq zr l"><div class=3D"ab co"><div cla=
+ss=3D"am zs zt zu zv zw zx zy zz aba abb ab q"><div class=3D"ab q lc"><div =
+class=3D"pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.c=
+om/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F1f74c296a=
+777&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fgeorge-calin.medi=
+um.com%2Fhow-to-prepare-a-helloworld-c-recipe-with-yocto-project-1f74c296a7=
+77&amp;user=3DGeorge+Calin&amp;userId=3De1dadcc49a33"><div><div class=3D"bl=
+" aria-hidden=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></d=
+iv></div></div></a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls=
+ lt lu"><p class=3D"be b du z dt">--</p></div></div><div class=3D"abc l"><d=
+iv><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj ak al=
+ lx an ao ap aq ar as at lw ab q ly lz" aria-label=3D"responses" rel=3D"noo=
+pener follow" href=3D"https://medium.com/@george-calin/how-to-prepare-a-hel=
+loworld-c-recipe-with-yocto-project-1f74c296a777?responsesOpen=3Dtrue&amp;s=
+ortBy=3DREVERSE_CHRON"></a></div></div></div></div><div class=3D"ab q abd a=
+be"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj=
+ ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://med=
+ium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F=
+1f74c296a777&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fgeorge-c=
+alin.medium.com%2Fhow-to-prepare-a-helloworld-c-recipe-with-yocto-project-1=
+f74c296a777"></a></div></div></div></div></div><div class=3D"j i d"><div cl=
+ass=3D"vd bg ve ri"></div></div></div></div></div></div></div></div></div><=
+div class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg=
+"><div class=3D"xh xi xj xk xl dv l"><div class=3D"dv gt l"><div class=3D"b=
+g dv"><div class=3D"dv l"><div class=3D"dv xm xn xo xp xq xr xs xt xu xv xw=
+ xx xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r as at" aria-label=3D"I Met a Quiet Millionaire Who Operates a $2.5m Tiny =
+Business While Working 2-3 Hours a Day" rel=3D"noopener follow" href=3D"htt=
+ps://medium.com/swlh/i-met-a-quiet-millionaire-who-operates-a-2-5m-tiny-bus=
+iness-while-working-2-3-hours-a-day-8776fe7f1d51"><div class=3D"yb yc yd ye=
+ yf">I Met a Quiet Millionaire Who Operates a $2.5m Tiny Business While Wor=
+king 2-3 Hours a Day</div></a></div><div class=3D"ya ab ca cn"><div class=
+=3D"yk yl ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=
+=3D"noopener follow" href=3D"https://medium.com/@timdenning"><div class=3D"=
+l fg">Tim Denning<div class=3D"fo bx l yp yq fp n ax fq"></div></div></a></=
+div></div></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidden=3D"f=
+alse"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" rel=3D"no=
+opener follow" href=3D"https://medium.com/@timdenning"><p class=3D"be b du =
+z jm jn jo jp jq jr js jt bj">Tim Denning</p><div class=3D"abh gs l"><div c=
+lass=3D"ab abi"><div class=3D"ab"></div></div></div></a></div></div></div><=
+div class=3D"yr l"><p class=3D"be b du z dt">in</p></div><div class=3D"l"><=
+div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar iy ab q" href=3D"https://medium.com/swlh" rel=3D"noopen=
+er follow"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">The Startup</p=
+></a></div></div></div></div><div class=3D"ys yt yu yv yw yx yy yz za zb l =
+gu"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopen=
+er follow" href=3D"https://medium.com/swlh/i-met-a-quiet-millionaire-who-op=
+erates-a-2-5m-tiny-business-while-working-2-3-hours-a-day-8776fe7f1d51"><di=
+v title=3D"I Met a Quiet Millionaire Who Operates a $2.5m Tiny Business Whi=
+le Working 2-3 Hours a Day"><h2 class=3D"hc b oj ol zc zd om on op ze zf oq=
+ ni qy zg zh qz nm rb zi zj rc nq re zk zl rf jm jo jp jr jt bj">I Met a Qu=
+iet Millionaire Who Operates a $2.5m Tiny Business While Working 2-3 Hours =
+a Day</h2></div><div class=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi j=
+r jt dt">This is bizarrely what he taught me</h3></div></a></div><a class=
+=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" h=
+ref=3D"https://medium.com/swlh/i-met-a-quiet-millionaire-who-operates-a-2-5=
+m-tiny-business-while-working-2-3-hours-a-day-8776fe7f1d51"><div class=3D"a=
+b q"><div class=3D"gt ab"><div class=3D"bl" aria-hidden=3D"false"><div clas=
+s=3D""><div><div class=3D"bl" aria-hidden=3D"false"></div></div></div></div=
+></div>=C2=B76 min read=C2=B7Jul 31</div></a><div class=3D"zn zo zp zq zr l=
+"><div class=3D"ab co"><div class=3D"am zs zt zu zv zw zx zy zz aba abb ab =
+q"><div class=3D"ab q lc"><div class=3D"pw-multi-vote-icon fg gr ld le lf">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener f=
+ollow" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium=
+.com%2F_%2Fvote%2Fswlh%2F8776fe7f1d51&amp;operation=3Dregister&amp;redirect=
+=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fi-met-a-quiet-millionaire-who-operates=
+-a-2-5m-tiny-business-while-working-2-3-hours-a-day-8776fe7f1d51&amp;user=
+=3DTim+Denning&amp;userId=3Db6d641be1066"><div><div class=3D"bl" aria-hidde=
+n=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></d=
+iv></a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p c=
+lass=3D"be b du z dt">--</p></div></div><div class=3D"abc l"><div><div clas=
+s=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao ap=
+ aq ar as at lw ab q ly lz" aria-label=3D"responses" rel=3D"noopener follow=
+" href=3D"https://medium.com/swlh/i-met-a-quiet-millionaire-who-operates-a-=
+2-5m-tiny-business-while-working-2-3-hours-a-day-8776fe7f1d51?responsesOpen=
+=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"be b du z dt">276</p></a></=
+div></div></div></div><div class=3D"ab q abd abe"><div><div class=3D"bl" ar=
+ia-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as a=
+t" rel=3D"noopener follow" href=3D"https://medium.com/m/signin?actionUrl=3D=
+https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8776fe7f1d51&amp;operation=3D=
+register&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fi-met-a-quiet-mil=
+lionaire-who-operates-a-2-5m-tiny-business-while-working-2-3-hours-a-day-87=
+76fe7f1d51"></a></div></div></div></div></div><div class=3D"j i d"><div cla=
+ss=3D"vd bg ve ri"></div></div></div></div></div></div></div></div></div><d=
+iv class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"=
+><div class=3D"xh xi xj xk xl dv l"><div class=3D"dv gt l"><div class=3D"bg=
+ dv"><div class=3D"dv l"><div class=3D"dv xm xn xo xp xq xr xs xt xu xv xw =
+xx xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar=
+ as at" aria-label=3D"The Stupidly Simple Pieces of Advice That Made Me a M=
+illionaire" rel=3D"noopener follow" href=3D"https://medium.com/swlh/the-stu=
+pidly-simple-pieces-of-advice-that-made-me-a-millionaire-faba42c4d550"><div=
+ class=3D"yb yc yd ye yf">The Stupidly Simple Pieces of Advice That Made Me=
+ a Millionaire</div></a></div><div class=3D"ya ab ca cn"><div class=3D"yk y=
+l ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"fa=
+lse"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noope=
+ner follow" href=3D"https://medium.com/@timdenning"><div class=3D"l fg">Tim=
+ Denning<div class=3D"fo bx l yp yq fp n ax fq"></div></div></a></div></div=
+></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidden=3D"false"><a =
+class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" rel=3D"noopener fo=
+llow" href=3D"https://medium.com/@timdenning"><p class=3D"be b du z jm jn j=
+o jp jq jr js jt bj">Tim Denning</p><div class=3D"abh gs l"><div class=3D"a=
+b abi"><div class=3D"ab"></div></div></div></a></div></div></div><div class=
+=3D"yr l"><p class=3D"be b du z dt">in</p></div><div class=3D"l"><div><div =
+class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar iy ab q" href=3D"https://medium.com/swlh" rel=3D"noopener follow=
+"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">The Startup</p></a></di=
+v></div></div></div><div class=3D"ys yt yu yv yw yx yy yz za zb l gu"><a cl=
+ass=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow=
+" href=3D"https://medium.com/swlh/the-stupidly-simple-pieces-of-advice-that=
+-made-me-a-millionaire-faba42c4d550"><div title=3D""><h2 class=3D"hc b oj o=
+l zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj rc nq re zk zl rf jm j=
+o jp jr jt bj">The Stupidly Simple Pieces of Advice That Made Me a Milliona=
+ire</h2></div><div class=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr =
+jt dt">A contrarian mindset is a wealth enabler</h3></div></a></div><a clas=
+s=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" =
+href=3D"https://medium.com/swlh/the-stupidly-simple-pieces-of-advice-that-m=
+ade-me-a-millionaire-faba42c4d550"><div class=3D"ab q"><div class=3D"gt ab"=
+><div class=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=3D=
+"bl" aria-hidden=3D"false"></div></div></div></div></div>=C2=B78 min read=
+=C2=B7Sep 26</div></a><div class=3D"zn zo zp zq zr l"><div class=3D"ab co">=
+<div class=3D"am zs zt zu zv zw zx zy zz aba abb ab q"><div class=3D"ab q l=
+c"><div class=3D"pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai=
+ aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://=
+medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fswlh%=
+2Ffaba42c4d550&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium=
+.com%2Fswlh%2Fthe-stupidly-simple-pieces-of-advice-that-made-me-a-millionai=
+re-faba42c4d550&amp;user=3DTim+Denning&amp;userId=3Db6d641be1066"><div><div=
+ class=3D"bl" aria-hidden=3D"false"><div class=3D"lg ao lh li lj lk am ll l=
+m ln lf"></div></div></div></a></div><div class=3D"pw-multi-vote-count l lo=
+ lp lq lr ls lt lu"><p class=3D"be b du z dt">--</p></div></div><div class=
+=3D"abc l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh a=
+h lg aj ak al lx an ao ap aq ar as at lw ab q ly lz" aria-label=3D"response=
+s" rel=3D"noopener follow" href=3D"https://medium.com/swlh/the-stupidly-sim=
+ple-pieces-of-advice-that-made-me-a-millionaire-faba42c4d550?responsesOpen=
+=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"be b du z dt">59</p></a></d=
+iv></div></div></div><div class=3D"ab q abd abe"><div><div class=3D"bl" ari=
+a-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at=
+" rel=3D"noopener follow" href=3D"https://medium.com/m/signin?actionUrl=3Dh=
+ttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffaba42c4d550&amp;operation=3Dr=
+egister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fswlh%2Fthe-stupidly-simpl=
+e-pieces-of-advice-that-made-me-a-millionaire-faba42c4d550"></a></div></div=
+></div></div></div><div class=3D"j i d"><div class=3D"vd bg ve ri"></div></=
+div></div></div></div></div></div></div></div><div class=3D"wm wn wo wp wq =
+wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><div class=3D"xh xi xj xk =
+xl dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><d=
+iv class=3D"dv xm xn xo xp xq xr xs xt xu xv xw xx xy"><div class=3D"xz"><a=
+ class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" aria-label=3D"How t=
+o Deploy Your Qt Cross-Platform Applications to Linux Operating System With=
+ Qt Installer=E2=80=A6" rel=3D"noopener follow" href=3D"https://medium.com/=
+geekculture/how-to-deploy-your-qt-cross-platform-applications-to-linux-oper=
+ating-system-with-qt-installer-ac28258bc370"><div class=3D"yb yc yd ye yf">=
+How to Deploy Your Qt Cross-Platform Applications to Linux Operating System=
+ With Qt Installer=E2=80=A6</div></a></div><div class=3D"ya ab ca cn"><div =
+class=3D"yk yl ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria=
+-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at"=
+ rel=3D"noopener follow" href=3D"https://medium.com/@george-calin"><div cla=
+ss=3D"l fg">George Calin<div class=3D"fo bx l yp yq fp n ax fq"></div></div=
+></a></div></div></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" re=
+l=3D"noopener follow" href=3D"https://medium.com/@george-calin"><p class=3D=
+"be b du z jm jn jo jp jq jr js jt bj">George Calin</p></a></div></div></di=
+v><div class=3D"yr l"><p class=3D"be b du z dt">in</p></div><div class=3D"l=
+"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj a=
+k al am an ao ap aq ar iy ab q" href=3D"https://medium.com/geekculture" rel=
+=3D"noopener follow"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">Geek=
+ Culture</p></a></div></div></div></div><div class=3D"ys yt yu yv yw yx yy =
+yz za zb l gu"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" re=
+l=3D"noopener follow" href=3D"https://medium.com/geekculture/how-to-deploy-=
+your-qt-cross-platform-applications-to-linux-operating-system-with-qt-insta=
+ller-ac28258bc370"><div title=3D"How to Deploy Your Qt Cross-Platform Appli=
+cations to Linux Operating System With Qt Installer=E2=80=A6"><h2 class=3D"=
+hc b oj ol zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj rc nq re zk z=
+l rf jm jo jp jr jt bj">How to Deploy Your Qt Cross-Platform Applications t=
+o Linux Operating System With Qt Installer=E2=80=A6</h2></div><div class=3D=
+"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr jt dt">This tutorial guides=
+ you to deploy cross-platform projects you made with the Qt framework to Li=
+nux OS using Qt Installer Framework</h3></div></a></div><a class=3D"af ag a=
+h ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"http=
+s://medium.com/geekculture/how-to-deploy-your-qt-cross-platform-application=
+s-to-linux-operating-system-with-qt-installer-ac28258bc370"><div class=3D"a=
+b q"><div class=3D"gt ab"><div class=3D"bl" aria-hidden=3D"false"><div clas=
+s=3D""><div><div class=3D"bl" aria-hidden=3D"false"></div></div></div></div=
+></div>=C2=B76 min read=C2=B7Dec 16, 2020</div></a><div class=3D"zn zo zp z=
+q zr l"><div class=3D"ab co"><div class=3D"am zs zt zu zv zw zx zy zz aba a=
+bb ab q"><div class=3D"ab q lc"><div class=3D"pw-multi-vote-icon fg gr ld l=
+e lf"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noop=
+ener follow" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2F=
+medium.com%2F_%2Fvote%2Fgeekculture%2Fac28258bc370&amp;operation=3Dregister=
+&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-deploy-your=
+-qt-cross-platform-applications-to-linux-operating-system-with-qt-installer=
+-ac28258bc370&amp;user=3DGeorge+Calin&amp;userId=3De1dadcc49a33"><div><div =
+class=3D"bl" aria-hidden=3D"false"><div class=3D"lg ao lh li lj lk am ll lm=
+ ln lf"></div></div></div></a></div><div class=3D"pw-multi-vote-count l lo =
+lp lq lr ls lt lu"><p class=3D"be b du z dt">--</p></div></div><div class=
+=3D"abc l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh a=
+h lg aj ak al lx an ao ap aq ar as at lw ab q ly lz" aria-label=3D"response=
+s" rel=3D"noopener follow" href=3D"https://medium.com/geekculture/how-to-de=
+ploy-your-qt-cross-platform-applications-to-linux-operating-system-with-qt-=
+installer-ac28258bc370?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"></a=
+></div></div></div></div><div class=3D"ab q abd abe"><div><div class=3D"bl"=
+ aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar a=
+s at" rel=3D"noopener follow" href=3D"https://medium.com/m/signin?actionUrl=
+=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fac28258bc370&amp;operation=
+=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-=
+deploy-your-qt-cross-platform-applications-to-linux-operating-system-with-q=
+t-installer-ac28258bc370"></a></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div><div class=3D"vd bg ve dj dk abl abm abn">=
+</div><div class=3D"ab jg jh abo abp abq"><a class=3D"be b bf z bj te abr a=
+bs abt abf ly abu es et eu abv abw abx ex aby abz aca acb acc ey ez fa bl f=
+b fc" rel=3D"noopener follow" href=3D"https://medium.com/@george-calin"><di=
+v class=3D"l fc">See all from <!-- -->George Calin</div></a><div class=3D"a=
+cd ace acf acg ach aci acj ack acl lu l"><a class=3D"be b bf z bj te abr ab=
+s abt abf ly abu es et eu abv abw abx ex aby abz aca acb acc ey ez fa bl fb=
+ fc" href=3D"https://medium.com/swlh" rel=3D"noopener follow"><div class=3D=
+"l fc">See all from <!-- -->The Startup</div></a></div></div></div></div><d=
+iv class=3D"vd bg ve acm acn aco acp acq"></div><div class=3D"ab ca"><div c=
+lass=3D"ch bg fw fx fy fz"><div class=3D"acr acs l"><h2 class=3D"be uy oj o=
+l om on op oq or ot ou ov ox oy oz pb pc bj">Recommended from Medium</h2><d=
+iv class=3D"ny nz oa ob oc l"><div class=3D"vw ab lc ji vx vy vz wa wb wc w=
+d we wf wg wh wi wj wk wl"><div class=3D"wm wn wo wp wq wr ws wt wu wv ww w=
+x wy wz xa xb xc xd xe xf xg"><div class=3D"xh xi xj xk xl dv l"><div class=
+=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><div class=3D"dv xm x=
+n xo xp xq xr xs xt xu xv xw xx xy"><div class=3D"xz"><a class=3D"af ag ah =
+ai aj ak al am an ao ap aq ar as at" aria-label=3D"The ChatGPT Hype Is Over=
+=E2=80=8A=E2=80=94=E2=80=8ANow Watch How Google Will Kill ChatGPT." rel=3D"=
+noopener follow" href=3D"https://medium.com/@alanany/the-chatgpt-hype-is-ov=
+er-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05"><div class=3D"yb yc=
+ yd ye yf">The ChatGPT Hype Is Over=E2=80=8A=E2=80=94=E2=80=8ANow Watch How=
+ Google Will Kill ChatGPT.</div></a></div><div class=3D"ya ab ca cn"><div c=
+lass=3D"yk yl ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria-=
+hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" =
+rel=3D"noopener follow" href=3D"https://medium.com/@alanany"><div class=3D"=
+l fg">AL Anany<div class=3D"fo bx l yp yq fp n ax fq"></div></div></a></div=
+></div></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidden=3D"fals=
+e"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" rel=3D"noope=
+ner follow" href=3D"https://medium.com/@alanany"><p class=3D"be b du z jm j=
+n jo jp jq jr js jt bj">AL Anany</p><div class=3D"abh gs l"><div class=3D"a=
+b abi"><div class=3D"ab"></div></div></div></a></div></div></div></div><div=
+ class=3D"ys yt yu yv yw yx yy yz za zb l gu"><a class=3D"af ag ah ai aj ak=
+ al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium=
+.com/@alanany/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatg=
+pt-426d5e3f7d05"><div title=3D""><h2 class=3D"hc b oj ol zc zd om on op ze =
+zf oq ni qy zg zh qz nm rb zi zj rc nq re zk zl rf jm jo jp jr jt bj">The C=
+hatGPT Hype Is Over=E2=80=8A=E2=80=94=E2=80=8ANow Watch How Google Will Kil=
+l ChatGPT.</h2></div><div class=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp=
+ qi jr jt dt">It never happens instantly. The business game is longer than =
+you know.</h3></div></a></div><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/@alanany/th=
+e-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05"=
+><div class=3D"ab q"><div class=3D"gt ab"><div class=3D"bl" aria-hidden=3D"=
+false"><div class=3D""><div><div class=3D"bl" aria-hidden=3D"false"></div><=
+/div></div></div></div>=C2=B76 min read=C2=B7Sep 1</div></a><div class=3D"z=
+n zo zp zq zr l"><div class=3D"ab co"><div class=3D"am zs zt zu zv zw zx zy=
+ zz aba abb ab q"><div class=3D"ab q lc"><div class=3D"pw-multi-vote-icon f=
+g gr ld le lf"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" re=
+l=3D"noopener follow" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps=
+%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F426d5e3f7d05&amp;operation=3Dregister&=
+amp;redirect=3Dhttps%3A%2F%2Fentreprenal.com%2Fthe-chatgpt-hype-is-over-now=
+-watch-how-google-will-kill-chatgpt-426d5e3f7d05&amp;user=3DAL+Anany&amp;us=
+erId=3D4a25c00139e6"><div><div class=3D"bl" aria-hidden=3D"false"><div clas=
+s=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></div></a></div><div cla=
+ss=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p class=3D"be b du z dt"=
+>--</p></div></div><div class=3D"abc l"><div><div class=3D"bl" aria-hidden=
+=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao ap aq ar as at lw ab q=
+ ly lz" aria-label=3D"responses" rel=3D"noopener follow" href=3D"https://me=
+dium.com/@alanany/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-c=
+hatgpt-426d5e3f7d05?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p cla=
+ss=3D"be b du z dt">458</p></a></div></div></div></div><div class=3D"ab q a=
+bd abe"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah a=
+i aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https:/=
+/medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2F=
+p%2F426d5e3f7d05&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fentr=
+eprenal.com%2Fthe-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatg=
+pt-426d5e3f7d05"></a></div></div></div></div></div><div class=3D"j i d"><di=
+v class=3D"vd bg ve ri"></div></div></div></div></div></div></div></div></d=
+iv><div class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe x=
+f xg"><div class=3D"xh xi xj xk xl dv l"><div class=3D"dv gt l"><div class=
+=3D"bg dv"><div class=3D"dv l"><div class=3D"dv xm xn xo xp xq xr xs xt xu =
+xv xw xx xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak al am an ao ap=
+ aq ar as at" aria-label=3D"The Architecture of a Modern Startup" rel=3D"no=
+opener follow" href=3D"https://medium.com/better-programming/architecture-o=
+f-modern-startup-abaec235c2eb"><div class=3D"yb yc yd ye yf">The Architectu=
+re of a Modern Startup</div></a></div><div class=3D"ya ab ca cn"><div class=
+=3D"yk yl ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=
+=3D"noopener follow" href=3D"https://medium.com/@kruglov.dmitry"><div class=
+=3D"l fg">Dmitry Kruglov<div class=3D"fo bx l yp yq fp n ax fq"></div></div=
+></a></div></div></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" re=
+l=3D"noopener follow" href=3D"https://medium.com/@kruglov.dmitry"><p class=
+=3D"be b du z jm jn jo jp jq jr js jt bj">Dmitry Kruglov</p></a></div></div=
+></div><div class=3D"yr l"><p class=3D"be b du z dt">in</p></div><div class=
+=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai=
+ aj ak al am an ao ap aq ar iy ab q" href=3D"https://medium.com/better-prog=
+ramming" rel=3D"noopener follow"><p class=3D"be b du z jm jn jo jp jq jr js=
+ jt bj">Better Programming</p></a></div></div></div></div><div class=3D"ys =
+yt yu yv yw yx yy yz za zb l gu"><a class=3D"af ag ah ai aj ak al am an ao =
+ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/better-p=
+rogramming/architecture-of-modern-startup-abaec235c2eb"><div title=3D""><h2=
+ class=3D"hc b oj ol zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj rc =
+nq re zk zl rf jm jo jp jr jt bj">The Architecture of a Modern Startup</h2>=
+</div><div class=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr jt dt">H=
+ype wave, pragmatic evidence vs the need to move fast</h3></div></a></div><=
+a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener fo=
+llow" href=3D"https://medium.com/better-programming/architecture-of-modern-=
+startup-abaec235c2eb"><div class=3D"ab q">16 min read=C2=B7Nov 7, 2022</div=
+></a><div class=3D"zn zo zp zq zr l"><div class=3D"ab co"><div class=3D"am =
+zs zt zu zv zw zx zy zz aba abb ab q"><div class=3D"ab q lc"><div class=3D"=
+pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/m/sign=
+in?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fbetter-programming%2Fa=
+baec235c2eb&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fbetterpro=
+gramming.pub%2Farchitecture-of-modern-startup-abaec235c2eb&amp;user=3DDmitr=
+y+Kruglov&amp;userId=3De258c2403b06"><div><div class=3D"bl" aria-hidden=3D"=
+false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></div></=
+a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p class=
+=3D"be b du z dt">--</p></div></div><div class=3D"abc l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao ap aq =
+ar as at lw ab q ly lz" aria-label=3D"responses" rel=3D"noopener follow" hr=
+ef=3D"https://medium.com/better-programming/architecture-of-modern-startup-=
+abaec235c2eb?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"b=
+e b du z dt">64</p></a></div></div></div></div><div class=3D"ab q abd abe">=
+<div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak =
+al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.=
+com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fabae=
+c235c2eb&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fbetterprogra=
+mming.pub%2Farchitecture-of-modern-startup-abaec235c2eb"></a></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div><div =
+class=3D"vd bg ve act"></div><h2 class=3D"be uy iw z ha bj">Lists</h2><div =
+class=3D"ri l"><div class=3D"cm ab lc ji vx vy vz wa wb wc wd we wf wg wh w=
+i wj wk wl"><div class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb x=
+c xd xe xf xg"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at ab =
+ck cm" rel=3D"noopener follow" href=3D"https://medium.com/@MediumStaff/list=
+/our-favorite-productivity-advice-ee7a8d826b50"><div class=3D"ada adb jm ab=
+ jf fg"><div class=3D"fg yg acv bw acw"><div class=3D"yg ik jm l"></div></d=
+iv><div class=3D"fg yg acv bw acx acy"><div class=3D"yg ik jm l"></div></di=
+v><div class=3D"fg yg bw is acz"><div class=3D"yg ik jm l"></div></div></di=
+v><div class=3D"aw l"><h2 class=3D"be uy iw z jm qh jo jp qi jr jt ha bj">O=
+ur Favorite Productivity Advice</h2><div class=3D"be b du z dt ab acu">9 st=
+ories=C2=B7190<!-- --> <!-- -->saves</div></div></a></div><div class=3D"wm =
+wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><a class=3D"af=
+ ag ah ai aj ak al am an ao ap aq ar as at ab ck cm" rel=3D"noopener follow=
+" href=3D"https://medium.com/@coffee_bytes/list/its-never-too-late-or-early=
+-to-start-something-eb57cf05d028"><div class=3D"ada adb jm ab jf fg"><div c=
+lass=3D"fg yg acv bw acw"><div class=3D"yg ik jm l"></div></div><div class=
+=3D"fg yg acv bw acx acy"><div class=3D"yg ik jm l"></div></div><div class=
+=3D"fg yg bw is acz"><div class=3D"yg ik jm l"></div></div></div><div class=
+=3D"aw l"><h2 class=3D"be uy iw z jm qh jo jp qi jr jt ha bj">It's never to=
+o late or early to start something</h2><div class=3D"be b du z dt ab acu">1=
+5 stories=C2=B7169<!-- --> <!-- -->saves</div></div></a></div><div class=3D=
+"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><a class=
+=3D"af ag ah ai aj ak al am an ao ap aq ar as at ab ck cm" rel=3D"noopener =
+follow" href=3D"https://medium.com/@walterbonnett71/list/modern-marketing-e=
+f96a341a034"><div class=3D"ada adb jm ab jf fg"><div class=3D"fg yg acv bw =
+acw"><div class=3D"yg ik jm l"></div></div><div class=3D"fg yg acv bw acx a=
+cy"><div class=3D"yg ik jm l">A white sneaker with untied laces.</div></div=
+><div class=3D"fg yg bw is acz"><div class=3D"yg ik jm l"></div></div></div=
+><div class=3D"aw l"><h2 class=3D"be uy iw z jm qh jo jp qi jr jt ha bj">Mo=
+dern Marketing</h2><div class=3D"be b du z dt ab acu">36 stories=C2=B7196<!=
+-- --> <!-- -->saves</div></div></a></div><div class=3D"wm wn wo wp wq wr w=
+s wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><a class=3D"af ag ah ai aj ak =
+al am an ao ap aq ar as at ab ck cm" rel=3D"noopener follow" href=3D"https:=
+//medium.com/@MediumStaff/list/medium-publications-accepting-story-submissi=
+ons-7c0ec8037e61"><div class=3D"ada adb jm ab jf fg"><div class=3D"fg yg ac=
+v bw acw"><div class=3D"yg ik jm l"></div></div><div class=3D"fg yg acv bw =
+acx acy"><div class=3D"yg ik jm l"></div></div><div class=3D"fg yg bw is ac=
+z"><div class=3D"yg ik jm l"></div></div></div><div class=3D"aw l"><h2 clas=
+s=3D"be uy iw z jm qh jo jp qi jr jt ha bj">Medium Publications Accepting S=
+tory Submissions</h2><div class=3D"be b du z dt ab acu">154 stories=C2=B786=
+0<!-- --> <!-- -->saves</div></div></a></div></div></div><div class=3D"vd b=
+g ve ace dj acg dk gm adc gn add go ade"></div><div class=3D"vw ab lc ji vx=
+ vy vz wa wb wc wd we wf wg wh wi wj wk wl"><div class=3D"wm wn wo wp wq wr=
+ ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><div class=3D"xh xi xj xk xl=
+ dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><div=
+ class=3D"dv xm xn xo xp xq xr xs xt xu xv xw xx xy"><div class=3D"xz"><a c=
+lass=3D"af ag ah ai aj ak al am an ao ap aq ar as at" aria-label=3D"Google =
+Rejected Max Howell(Creator Of Homebrew) For Getting This Interview Questio=
+n Wrong. Can You?" rel=3D"noopener follow" href=3D"https://medium.com/gitco=
+nnected/google-rejected-max-howell-creator-of-homebrew-for-getting-this-int=
+erview-question-wrong-c99324f6fa90"><div class=3D"yb yc yd ye yf">Google Re=
+jected Max Howell(Creator Of Homebrew) For Getting This Interview Question =
+Wrong. Can You?</div></a></div><div class=3D"ya ab ca cn"><div class=3D"yk =
+yl ym yn yo ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"f=
+alse"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noop=
+ener follow" href=3D"https://medium.com/@bamania-ashish"><div class=3D"l fg=
+">Dr. Ashish Bamania<div class=3D"fo bx l yp yq fp n ax fq"></div></div></a=
+></div></div></div><div class=3D"yr l"><div><div class=3D"bl" aria-hidden=
+=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" rel=
+=3D"noopener follow" href=3D"https://medium.com/@bamania-ashish"><p class=
+=3D"be b du z jm jn jo jp jq jr js jt bj">Dr. Ashish Bamania</p><div class=
+=3D"abh gs l"><div class=3D"ab abi"><div class=3D"ab"></div></div></div></a=
+></div></div></div><div class=3D"yr l"><p class=3D"be b du z dt">in</p></di=
+v><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D=
+"af ag ah ai aj ak al am an ao ap aq ar iy ab q" href=3D"https://medium.com=
+/gitconnected" rel=3D"noopener follow"><p class=3D"be b du z jm jn jo jp jq=
+ jr js jt bj">Level Up Coding</p></a></div></div></div></div><div class=3D"=
+ys yt yu yv yw yx yy yz za zb l gu"><a class=3D"af ag ah ai aj ak al am an =
+ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/gitco=
+nnected/google-rejected-max-howell-creator-of-homebrew-for-getting-this-int=
+erview-question-wrong-c99324f6fa90"><div title=3D"Google Rejected Max Howel=
+l(Creator Of Homebrew) For Getting This Interview Question Wrong. Can You?"=
+><h2 class=3D"hc b oj ol zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj=
+ rc nq re zk zl rf jm jo jp jr jt bj">Google Rejected Max Howell(Creator Of=
+ Homebrew) For Getting This Interview Question Wrong. Can You?</h2></div><d=
+iv class=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr jt dt">Can you s=
+olve this Google interview question?</h3></div></a></div><a class=3D"af ag =
+ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"htt=
+ps://medium.com/gitconnected/google-rejected-max-howell-creator-of-homebrew=
+-for-getting-this-interview-question-wrong-c99324f6fa90"><div class=3D"ab q=
+"><div class=3D"gt ab"><div class=3D"bl" aria-hidden=3D"false"><div class=
+=3D""><div><div class=3D"bl" aria-hidden=3D"false"></div></div></div></div>=
+</div>=C2=B74 min read=C2=B7Oct 3</div></a><div class=3D"zn zo zp zq zr l">=
+<div class=3D"ab co"><div class=3D"am zs zt zu zv zw zx zy zz aba abb ab q"=
+><div class=3D"ab q lc"><div class=3D"pw-multi-vote-icon fg gr ld le lf"><a=
+ class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener fol=
+low" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.c=
+om%2F_%2Fvote%2Fgitconnected%2Fc99324f6fa90&amp;operation=3Dregister&amp;re=
+direct=3Dhttps%3A%2F%2Flevelup.gitconnected.com%2Fgoogle-rejected-max-howel=
+l-creator-of-homebrew-for-getting-this-interview-question-wrong-c99324f6fa9=
+0&amp;user=3DDr.+Ashish+Bamania&amp;userId=3Df10e9a50984a"><div><div class=
+=3D"bl" aria-hidden=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln l=
+f"></div></div></div></a></div><div class=3D"pw-multi-vote-count l lo lp lq=
+ lr ls lt lu"><p class=3D"be b du z dt">--</p></div></div><div class=3D"abc=
+ l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj=
+ ak al lx an ao ap aq ar as at lw ab q ly lz" aria-label=3D"responses" rel=
+=3D"noopener follow" href=3D"https://medium.com/gitconnected/google-rejecte=
+d-max-howell-creator-of-homebrew-for-getting-this-interview-question-wrong-=
+c99324f6fa90?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"b=
+e b du z dt">60</p></a></div></div></div></div><div class=3D"ab q abd abe">=
+<div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak =
+al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.=
+com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc993=
+24f6fa90&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Flevelup.gitc=
+onnected.com%2Fgoogle-rejected-max-howell-creator-of-homebrew-for-getting-t=
+his-interview-question-wrong-c99324f6fa90"></a></div></div></div></div></di=
+v><div class=3D"j i d"><div class=3D"vd bg ve ri"></div></div></div></div><=
+/div></div></div></div></div><div class=3D"wm wn wo wp wq wr ws wt wu wv ww=
+ wx wy wz xa xb xc xd xe xf xg"><div class=3D"xh xi xj xk xl dv l"><div cla=
+ss=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><div class=3D"dv xm=
+ xn xo xp xq xr xs xt xu xv xw xx xy"><div class=3D"xz"><a class=3D"af ag a=
+h ai aj ak al am an ao ap aq ar as at" aria-label=3D"10 Hottest New Apps to=
+ Explore the Future of Tech As It Happens" rel=3D"noopener follow" href=3D"=
+https://medium.com/curiosity-ai/10-hottest-new-apps-to-explore-the-future-o=
+f-tech-as-it-happens-c46eeb42b1d2"><div class=3D"yb yc yd ye yf">10 Hottest=
+ New Apps to Explore the Future of Tech As It Happens</div></a></div><div c=
+lass=3D"ya ab ca cn"><div class=3D"yk yl ym yn yo ab"><div class=3D"gp l"><=
+div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.c=
+om/@leonzucchini"><div class=3D"l fg">Leon Zucchini<div class=3D"fo bx l yp=
+ yq fp n ax fq"></div></div></a></div></div></div><div class=3D"yr l"><div>=
+<div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am=
+ an ao ap aq ar iy ab q" rel=3D"noopener follow" href=3D"https://medium.com=
+/@leonzucchini"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">Leon Zucc=
+hini</p></a></div></div></div><div class=3D"yr l"><p class=3D"be b du z dt"=
+>in</p></div><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" href=3D"https:/=
+/medium.com/curiosity-ai" rel=3D"noopener follow"><p class=3D"be b du z jm =
+jn jo jp jq jr js jt bj">Curiosity</p></a></div></div></div></div><div clas=
+s=3D"ys yt yu yv yw yx yy yz za zb l gu"><a class=3D"af ag ah ai aj ak al a=
+m an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/=
+curiosity-ai/10-hottest-new-apps-to-explore-the-future-of-tech-as-it-happen=
+s-c46eeb42b1d2"><div title=3D""><h2 class=3D"hc b oj ol zc zd om on op ze z=
+f oq ni qy zg zh qz nm rb zi zj rc nq re zk zl rf jm jo jp jr jt bj">10 Hot=
+test New Apps to Explore the Future of Tech As It Happens</h2></div><div cl=
+ass=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr jt dt">Meet the 10 mo=
+st upvoted apps in August=E2=80=8A=E2=80=94=E2=80=8Avia ProductHunt.</h3></=
+div></a></div><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=
+=3D"noopener follow" href=3D"https://medium.com/curiosity-ai/10-hottest-new=
+-apps-to-explore-the-future-of-tech-as-it-happens-c46eeb42b1d2"><div class=
+=3D"ab q">13 min read=C2=B7Sep 12</div></a><div class=3D"zn zo zp zq zr l">=
+<div class=3D"ab co"><div class=3D"am zs zt zu zv zw zx zy zz aba abb ab q"=
+><div class=3D"ab q lc"><div class=3D"pw-multi-vote-icon fg gr ld le lf"><a=
+ class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener fol=
+low" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.c=
+om%2F_%2Fvote%2Fcuriosity-ai%2Fc46eeb42b1d2&amp;operation=3Dregister&amp;re=
+direct=3Dhttps%3A%2F%2Fblog.curiosity.ai%2F10-hottest-new-apps-to-explore-t=
+he-future-of-tech-as-it-happens-c46eeb42b1d2&amp;user=3DLeon+Zucchini&amp;u=
+serId=3D58c3f2972f73"><div><div class=3D"bl" aria-hidden=3D"false"><div cla=
+ss=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></div></a></div><div cl=
+ass=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p class=3D"be b du z dt=
+">--</p></div></div><div class=3D"abc l"><div><div class=3D"bl" aria-hidden=
+=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao ap aq ar as at lw ab q=
+ ly lz" aria-label=3D"responses" rel=3D"noopener follow" href=3D"https://me=
+dium.com/curiosity-ai/10-hottest-new-apps-to-explore-the-future-of-tech-as-=
+it-happens-c46eeb42b1d2?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p=
+ class=3D"be b du z dt">25</p></a></div></div></div></div><div class=3D"ab =
+q abd abe"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag a=
+h ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"http=
+s://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark=
+%2Fp%2Fc46eeb42b1d2&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fb=
+log.curiosity.ai%2F10-hottest-new-apps-to-explore-the-future-of-tech-as-it-=
+happens-c46eeb42b1d2"></a></div></div></div></div></div><div class=3D"j i d=
+"><div class=3D"vd bg ve ri"></div></div></div></div></div></div></div></di=
+v></div><div class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd=
+ xe xf xg"><div class=3D"xh xi xj xk xl dv l"><div class=3D"dv gt l"><div c=
+lass=3D"bg dv"><div class=3D"dv l"><div class=3D"dv xm xn xo xp xq xr xs xt=
+ xu xv xw xx xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar as at" aria-label=3D"Stop using Integer ID=E2=80=99s in your Dat=
+abase" rel=3D"noopener follow" href=3D"https://medium.com/@thomasjay200/sto=
+p-using-integer-ids-in-your-database-5e5126a25dbe"><div class=3D"yb yc yd y=
+e yf">Stop using Integer ID=E2=80=99s in your Database</div></a></div><div =
+class=3D"ya ab ca cn"><div class=3D"yk yl ym yn yo ab"><div class=3D"gp l">=
+<div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak =
+al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.=
+com/@thomasjay200"><div class=3D"l fg">Tom Jay<div class=3D"fo bx l yp yq f=
+p n ax fq"></div></div></a></div></div></div><div class=3D"yr l"><div><div =
+class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar iy ab q" rel=3D"noopener follow" href=3D"https://medium.com/@tho=
+masjay200"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">Tom Jay</p></a=
+></div></div></div></div><div class=3D"ys yt yu yv yw yx yy yz za zb l gu">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener f=
+ollow" href=3D"https://medium.com/@thomasjay200/stop-using-integer-ids-in-y=
+our-database-5e5126a25dbe"><div title=3D""><h2 class=3D"hc b oj ol zc zd om=
+ on op ze zf oq ni qy zg zh qz nm rb zi zj rc nq re zk zl rf jm jo jp jr jt=
+ bj">Stop using Integer ID=E2=80=99s in your Database</h2></div><div class=
+=3D"zm l"><h3 class=3D"be b iw z jm qh jo jp qi jr jt dt">I=E2=80=99ve seen=
+ this over and over for the last 30 years, people let the database set the =
+ID or Primary Key of a table from the database, at=E2=80=A6</h3></div></a><=
+/div><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noope=
+ner follow" href=3D"https://medium.com/@thomasjay200/stop-using-integer-ids=
+-in-your-database-5e5126a25dbe"><div class=3D"ab q"><div class=3D"gt ab"><d=
+iv class=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=3D"bl=
+" aria-hidden=3D"false"></div></div></div></div></div>=C2=B73 min read=C2=
+=B7May 22</div></a><div class=3D"zn zo zp zq zr l"><div class=3D"ab co"><di=
+v class=3D"am zs zt zu zv zw zx zy zz aba abb ab q"><div class=3D"ab q lc">=
+<div class=3D"pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj=
+ ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://med=
+ium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F5e51=
+26a25dbe&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2=
+F%40thomasjay200%2Fstop-using-integer-ids-in-your-database-5e5126a25dbe&amp=
+;user=3DTom+Jay&amp;userId=3Dc89f74743c75"><div><div class=3D"bl" aria-hidd=
+en=3D"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></=
+div></a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p =
+class=3D"be b du z dt">--</p></div></div><div class=3D"abc l"><div><div cla=
+ss=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao a=
+p aq ar as at lw ab q ly lz" aria-label=3D"responses" rel=3D"noopener follo=
+w" href=3D"https://medium.com/@thomasjay200/stop-using-integer-ids-in-your-=
+database-5e5126a25dbe?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p c=
+lass=3D"be b du z dt">127</p></a></div></div></div></div><div class=3D"ab q=
+ abd abe"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah=
+ ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https=
+://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%=
+2Fp%2F5e5126a25dbe&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fme=
+dium.com%2F%40thomasjay200%2Fstop-using-integer-ids-in-your-database-5e5126=
+a25dbe"></a></div></div></div></div></div><div class=3D"j i d"><div class=
+=3D"vd bg ve ri"></div></div></div></div></div></div></div></div></div><div=
+ class=3D"wm wn wo wp wq wr ws wt wu wv ww wx wy wz xa xb xc xd xe xf xg"><=
+div class=3D"xh xi xj xk xl dv l"><div class=3D"dv gt l"><div class=3D"bg d=
+v"><div class=3D"dv l"><div class=3D"dv xm xn xo xp xq xr xs xt xu xv xw xx=
+ xy"><div class=3D"xz"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar a=
+s at" aria-label=3D"10 essential VS Code tips &amp; tricks for greater prod=
+uctivity" rel=3D"noopener follow" href=3D"https://medium.com/coding-beauty/=
+vscode-tips-tricks-98c6e2258626"><div class=3D"yb yc yd ye yf">10 essential=
+ VS Code tips &amp; tricks for greater productivity</div></a></div><div cla=
+ss=3D"ya ab ca cn"><div class=3D"yk yl ym yn yo ab"><div class=3D"gp l"><di=
+v><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al =
+am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com=
+/@codingbeauty"><div class=3D"l fg">Coding Beauty<div class=3D"fo bx l yp y=
+q fp n ax fq"></div></div></a></div></div></div><div class=3D"yr l"><div><d=
+iv class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am a=
+n ao ap aq ar iy ab q" rel=3D"noopener follow" href=3D"https://medium.com/@=
+codingbeauty"><p class=3D"be b du z jm jn jo jp jq jr js jt bj">Coding Beau=
+ty</p></a></div></div></div><div class=3D"yr l"><p class=3D"be b du z dt">i=
+n</p></div><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a=
+ class=3D"af ag ah ai aj ak al am an ao ap aq ar iy ab q" href=3D"https://m=
+edium.com/coding-beauty" rel=3D"noopener follow"><p class=3D"be b du z jm j=
+n jo jp jq jr js jt bj">Coding Beauty</p></a></div></div></div></div><div c=
+lass=3D"ys yt yu yv yw yx yy yz za zb l gu"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://medium.c=
+om/coding-beauty/vscode-tips-tricks-98c6e2258626"><div title=3D""><h2 class=
+=3D"hc b oj ol zc zd om on op ze zf oq ni qy zg zh qz nm rb zi zj rc nq re =
+zk zl rf jm jo jp jr jt bj">10 essential VS Code tips &amp; tricks for grea=
+ter productivity</h2></div><div class=3D"zm l"><h3 class=3D"be b iw z jm qh=
+ jo jp qi jr jt dt">Boost your productivity with VS Code: discover key feat=
+ures to enhance your coding experience and achieve your goals faster than e=
+ver.</h3></div></a></div><a class=3D"af ag ah ai aj ak al am an ao ap aq ar=
+ as at" rel=3D"noopener follow" href=3D"https://medium.com/coding-beauty/vs=
+code-tips-tricks-98c6e2258626"><div class=3D"ab q"><div class=3D"gt ab"><di=
+v class=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=3D"bl"=
+ aria-hidden=3D"false"></div></div></div></div></div>=C2=B710 min read=C2=
+=B7Aug 20</div></a><div class=3D"zn zo zp zq zr l"><div class=3D"ab co"><di=
+v class=3D"am zs zt zu zv zw zx zy zz aba abb ab q"><div class=3D"ab q lc">=
+<div class=3D"pw-multi-vote-icon fg gr ld le lf"><a class=3D"af ag ah ai aj=
+ ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://med=
+ium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fcoding-b=
+eauty%2F98c6e2258626&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2F=
+medium.com%2Fcoding-beauty%2Fvscode-tips-tricks-98c6e2258626&amp;user=3DCod=
+ing+Beauty&amp;userId=3D72bc85442184"><div><div class=3D"bl" aria-hidden=3D=
+"false"><div class=3D"lg ao lh li lj lk am ll lm ln lf"></div></div></div><=
+/a></div><div class=3D"pw-multi-vote-count l lo lp lq lr ls lt lu"><p class=
+=3D"be b du z dt">--</p></div></div><div class=3D"abc l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af fh ah lg aj ak al lx an ao ap aq =
+ar as at lw ab q ly lz" aria-label=3D"responses" rel=3D"noopener follow" hr=
+ef=3D"https://medium.com/coding-beauty/vscode-tips-tricks-98c6e2258626?resp=
+onsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"be b du z dt">27</=
+p></a></div></div></div></div><div class=3D"ab q abd abe"><div><div class=
+=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar as at" rel=3D"noopener follow" href=3D"https://medium.com/m/signin?ac=
+tionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F98c6e2258626&amp;op=
+eration=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fcoding-beauty%=
+2Fvscode-tips-tricks-98c6e2258626"></a></div></div></div></div></div></div>=
+</div></div></div></div></div></div></div><div class=3D"vd bg ve dj dk abl =
+abm abn"></div><a class=3D"be b bf z bj te abr abs abt abf ly abu es et eu =
+abv abw abx ex aby abz aca acb acc ey ez fa bl fb fc" rel=3D"noopener follo=
+w" href=3D"https://medium.com/"><div class=3D"l fc">See more recommendation=
+s</div></a></div></div></div><div class=3D"h k j"><div class=3D"vd bg ve vk=
+"></div><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><div class=3D=
+"vl ab lc ji"><div class=3D"vm vn l"><a class=3D"af ag ah ai aj ak al am an=
+ ao ap aq ar as at" href=3D"https://help.medium.com/hc/en-us" rel=3D"noopen=
+er follow"><p class=3D"be b du z dt">Help</p></a></div><div class=3D"vm vn =
+l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https:=
+//medium.statuspage.io/" rel=3D"noopener follow"><p class=3D"be b du z dt">=
+Status</p></a></div><div class=3D"vm vn l"><a class=3D"af ag ah ai aj ak al=
+ am an ao ap aq ar as at" href=3D"https://medium.com/about?autoplay=3D1" re=
+l=3D"noopener follow"><p class=3D"be b du z dt">About</p></a></div><div cla=
+ss=3D"vm vn l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" re=
+l=3D"noopener follow" href=3D"https://medium.com/jobs-at-medium/work-at-med=
+ium-959d1a85284e"><p class=3D"be b du z dt">Careers</p></a></div><div class=
+=3D"vm vn l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=
+=3D"https://blog.medium.com/" rel=3D"noopener follow"><p class=3D"be b du z=
+ dt">Blog</p></a></div><div class=3D"vm vn l"><a class=3D"af ag ah ai aj ak=
+ al am an ao ap aq ar as at" href=3D"https://policy.medium.com/medium-priva=
+cy-policy-f03bf92035c9" rel=3D"noopener follow"><p class=3D"be b du z dt">P=
+rivacy</p></a></div><div class=3D"vm vn l"><a class=3D"af ag ah ai aj ak al=
+ am an ao ap aq ar as at" href=3D"https://policy.medium.com/medium-terms-of=
+-service-9db0094a1e0f" rel=3D"noopener follow"><p class=3D"be b du z dt">Te=
+rms</p></a></div><div class=3D"vm vn l"><a class=3D"af ag ah ai aj ak al am=
+ an ao ap aq ar as at" href=3D"https://speechify.com/medium" rel=3D"noopene=
+r follow"><p class=3D"be b du z dt">Text to speech</p></a></div><div class=
+=3D"vm l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"=
+noopener follow" href=3D"https://medium.com/business"><p class=3D"be b du z=
+ dt">Teams</p></a></div></div></div></div></div></div></div></div></div></d=
+iv>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></body></html>
+------MultipartBoundary--naxdrl7NHrVViPzLruRkav6UR92FJcyDKtXRC08fYq----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-22adc341-faf5-4e2e-9dc7-c3785c75e797@mhtml.blink
+
+@charset "utf-8";
+
+body { margin-left: 0px; margin-right: 0px; margin-top: 0px; }
+
+#bN015htcoyT__google-cache-hdr { background: rgb(248, 249, 250); font: 13px=
+ / 16px arial, sans-serif; text-align: left; color: rgb(32, 33, 36); border=
+-width: 0px 0px 1px; border-top-style: initial; border-right-style: initial=
+; border-left-style: initial; border-top-color: initial; border-right-color=
+: initial; border-left-color: initial; border-image: initial; margin: 0px; =
+border-bottom-style: solid; border-bottom-color: rgb(218, 220, 224); paddin=
+g: 16px 28px 24px; }
+
+#bN015htcoyT__google-cache-hdr * { display: inline; font: inherit; text-ali=
+gn: inherit; color: inherit; background: none; border: 0px; margin: 0px; pa=
+dding: 0px; letter-spacing: 0px; }
+
+#bN015htcoyT__google-cache-hdr a { text-decoration: none; color: rgb(26, 13=
+, 171); }
+
+#bN015htcoyT__google-cache-hdr a:hover { text-decoration: underline; }
+
+#bN015htcoyT__google-cache-hdr a:visited { color: rgb(104, 29, 168); }
+
+#bN015htcoyT__google-cache-hdr div { display: block; margin-top: 4px; }
+
+#bN015htcoyT__google-cache-hdr b { font-weight: bold; display: inline-block=
+; direction: ltr; }
+------MultipartBoundary--naxdrl7NHrVViPzLruRkav6UR92FJcyDKtXRC08fYq------

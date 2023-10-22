@@ -87,7 +87,8 @@ int MultiColumnDisplay::numVisibleColumns() const
 
 bool MultiColumnDisplay::addColumn(int position)
 {
-    if (numColumns() == MaxNumColumns) {
+    if (numColumns() == 16) {
+//        if (numColumns() == MaxNumColumns) {
         return false;
     }
     if (position < 0 || position > numColumns()) {
@@ -428,7 +429,8 @@ QString MultiColumnDisplay::getDisplaySettingsString() const
 void MultiColumnDisplay::restoreFromDisplaySettingsString(const QString& settings)
 {
     const QString ColumnSeparator = ";";
-    int numSettingsColumns = qBound(0, settings.count(ColumnSeparator) + 1, MaxNumColumns);
+//    int numSettingsColumns = qBound(0, settings.count(ColumnSeparator) + 1, MaxNumColumns);
+    int numSettingsColumns = qBound(0, settings.count(ColumnSeparator) + 1, 16);
     while (numColumns() > numSettingsColumns) {
         deleteColumn(numColumns() - 1, true);
     }

@@ -54,7 +54,7 @@ ControlPanel::ControlPanel(ControllerInterface *controllerInterface_, SystemStat
     highLabel(nullptr),
     analogLabel(nullptr)
 {
-    topLabel = new QLabel(tr("Selection Properties"), this);
+    topLabel = new QLabel(tr("当前选择属性"), this);
 
     hideControlPanelButton = new QToolButton(this);
     hideControlPanelButton->setIcon(QIcon(":/images/hideicon.png"));
@@ -214,11 +214,11 @@ QHBoxLayout* ControlPanel::createSelectionLayout()
     }
 
     QGridLayout* selectionGrid = new QGridLayout;
-    selectionGrid->addWidget(new QLabel(tr("Name:"), this), 0, 0, Qt::AlignRight);
+    selectionGrid->addWidget(new QLabel(tr("名称:"), this), 0, 0, Qt::AlignRight);
     selectionGrid->addWidget(selectionNameLabel, 0, 1, 1, 3);
-    selectionGrid->addWidget(new QLabel(tr("Reference:"), this), 1, 0, Qt::AlignRight);
+    selectionGrid->addWidget(new QLabel(tr("参考:"), this), 1, 0, Qt::AlignRight);
     selectionGrid->addWidget(selectionReferenceLabel, 1, 1, 1, 3);
-    selectionGrid->addWidget(new QLabel(tr("Impedance:"), this), 2, 0, Qt::AlignRight);
+    selectionGrid->addWidget(new QLabel(tr("阻抗:"), this), 2, 0, Qt::AlignRight);
     selectionGrid->addWidget(selectionImpedanceLabel, 2, 1);
     if (state->getControllerTypeEnum() == ControllerStimRecord) {
         selectionGrid->addWidget(new QLabel(tr("Stim Trigger:"), this), 2, 2, Qt::AlignRight);
