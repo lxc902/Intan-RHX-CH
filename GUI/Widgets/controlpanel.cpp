@@ -54,7 +54,7 @@ ControlPanel::ControlPanel(ControllerInterface *controllerInterface_, SystemStat
     highLabel(nullptr),
     analogLabel(nullptr)
 {
-    topLabel = new QLabel(tr("当前选择属性"), this);
+    topLabel = new QLabel(tr("当前选择频道属性"), this);
 
     hideControlPanelButton = new QToolButton(this);
     hideControlPanelButton->setIcon(QIcon(":/images/hideicon.png"));

@@ -31,6 +31,7 @@
 #include "startupdialog.h"
 
 #include <QtWidgets>
+#include <iostream>
 
 StartupDialog::StartupDialog(ControllerType controllerType_, AmplifierSampleRate* sampleRate_, StimStepSize* stimStepSize_,
                              bool* rememberSettings_, bool askToRememberSettings, bool testMode, QWidget *parent) :
@@ -112,6 +113,7 @@ StartupDialog::StartupDialog(ControllerType controllerType_, AmplifierSampleRate
         rememberSettingsCheckBox->setText(tr("Always use this sample rate with ") + ControllerTypeString[(int)controllerType]);
     }
     rememberSettingsCheckBox->setVisible(askToRememberSettings);
+    std::cout << "+++ askToRememberSettings=" << askToRememberSettings << std::endl;
 
     buttonBox = new QDialogButtonBox(QDialogButtonBox::Ok, this);
     connect(buttonBox, SIGNAL(accepted()), this, SLOT(accept()));
